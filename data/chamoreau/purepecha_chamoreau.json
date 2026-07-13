@@ -1,0 +1,5889 @@
+[
+  {
+    "translation": {
+      "es": "Hablemos purépecha",
+      "pu": "Wantee juchari anapu",
+      "seg": "Wantee juchari anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Sí Puki ha cantado la canción",
+      "pu": "Xo Puki pirixti pirikwani",
+      "seg": "Xo Puki pirixti pirikwani"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es un perro",
+      "pu": "wichuixti",
+      "seg": "wichu-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy grande",
+      "pu": "k’ériixkani",
+      "seg": "k’éri-i-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy Pablo",
+      "pu": "Pábluixkani",
+      "seg": "Páblu-i-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy yo",
+      "pu": "jíixka",
+      "seg": "jí-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es aquél",
+      "pu": "imaixti",
+      "seg": "ima-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es el mío",
+      "pu": "juchitiixti",
+      "seg": "juchiti-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Quién es?",
+      "pu": "néixki",
+      "seg": "né-i-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos son tres",
+      "pu": "tanimuixtikxï",
+      "seg": "tanimu-i-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos son muchos",
+      "pu": "wánikwaixtikxï",
+      "seg": "wánikwa-i-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "No es nadie",
+      "pu": "nonemaixti",
+      "seg": "nonema-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los estoy viendo",
+      "pu": "ixeaxakani",
+      "seg": "ixe-a-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos le están dando las flores",
+      "pu": "íntsaxatikxï tsïtsïkiichani",
+      "seg": "ínts-a-xa-ti-kxï tsïtsïki-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿A dónde iremos mañana?",
+      "pu": "nanikxï niapawani ",
+      "seg": "nani-kxï ni-a-pawani "
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Vienes cada año?",
+      "pu": "t’u jurhaxïni mantani wéxurhini",
+      "seg": "t’u ju-rha-xïn-i mantani wéxurhini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Haz tenido ganas de cantar solo",
+      "pu": "pirikurhinchaxkari",
+      "seg": "piri-kurhi-ncha-x-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Les he dado el perro a los pequeños",
+      "pu": "ji íntsaxka wichuni sapiechani",
+      "seg": "ji ínts-a-x-ka wichu-ni sapi-echa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los perros están alrededor del fuego",
+      "pu": "wíchuicha jarhaxtikxï wirhipantani chp’írirhu",
+      "seg": "wíchu-icha ja-rha-x-ti-kxï wirhipantani chp’íri-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo ha llorado a causa de María",
+      "pu": "Pablu weraxti Mariani jimpo",
+      "seg": "Pablu we-ra-x-ti Maria-ni jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los hombres regresan",
+      "pu": "achatiicha nyant’axïntikxï",
+      "seg": "achati-icha nya-nt’a-xïn-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Marcos ha golpeado al perro",
+      "pu": "Marcosï ataxti wíchuni",
+      "seg": "Marcosï ata-x-ti wíchu-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo ha cantado la canción",
+      "pu": "Pablu pirikwani pirixti",
+      "seg": "Pablu pirikwa-ni piri-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mi hijo ha prestado su escoba a esa mujer",
+      "pu": "juchi wáp’a kwanesti imeri pánkwani inteni warhini",
+      "seg": "juchi wáp’a kwane-s-ti imeri pánkwa-ni inte-ni warhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Beto cuenta una historia a su hijo",
+      "pu": "Beto imeri wáp’ani arhisti ma wantantskwa",
+      "seg": "Beto imeri wáp’a-ni arhi-s-ti ma wantantskwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "En los dos bancos blancos",
+      "pu": "tsimani waxantsïkwarhu urhapitiicharhu",
+      "seg": "tsimani waxantsïkwa-rhu urhapiti-icha-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tienes puesto un bonito collar",
+      "pu": "sesaxï wekach’akwa jukaxkari",
+      "seg": "sesaxï wekach’akwa juka-x-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es una casa",
+      "pu": "ma kt’aixti",
+      "seg": "ma kt’a-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy su madre",
+      "pu": "amampaixkani",
+      "seg": "ama-mpa-i-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré a casa de mi hermana y a casa de mi hermano",
+      "pu": "niakani juchi jinkonikwao ka juchi mímio",
+      "seg": "ni-a-ka-ni juchi jinkonikwa-o ka juchi mími-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré a casa de mi hermana y a casa de mi hermano",
+      "pu": "niakani juchi pirimpao ka juchi ermanuo",
+      "seg": "ni-a-ka-ni juchi piri-mpa-o ka juchi ermanu-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "la mujer anciana",
+      "pu": "warhiti kutsïmiti",
+      "seg": "warhiti kutsïmiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha se ha casado",
+      "pu": "achati tarhepiti",
+      "seg": "achati tarhepiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "el hombre anciano",
+      "pu": "nanaka tempunaxti",
+      "seg": "nanaka tempuna-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho se ha casado",
+      "pu": "tataka tempuchaxti",
+      "seg": "tataka tempucha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos se han casado",
+      "pu": "tempuchaxtikxï",
+      "seg": "tempucha-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "dos largo dedo",
+      "pu": "tsimani ichakwa k’erhutakwa",
+      "seg": "tsimani ichakwa k’erhutakwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "cuatro tortillas",
+      "pu": "t’amu ichukwa ichuskuta",
+      "seg": "t’amu ichukwa ichuskuta"
+    }
+  },
+  {
+    "translation": {
+      "es": "cinco redondo manzana",
+      "pu": "yumu irhakwa mantsana",
+      "seg": "yumu irhakwa mantsana"
+    }
+  },
+  {
+    "translation": {
+      "es": "No soy yo",
+      "pu": "no jíixka",
+      "seg": "no jí-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo he cantado",
+      "pu": "ji pirixka",
+      "seg": "ji piri-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú has cantado",
+      "pu": "t’u pirixka",
+      "seg": "t’u piri-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nosotros hemos cantado",
+      "pu": "jucha pirixka",
+      "seg": "jucha piri-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ustedes han cantado",
+      "pu": "cha pirixka",
+      "seg": "cha piri-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me has asustado a mí",
+      "pu": "jintini cheraxkari",
+      "seg": "jintini che-ra-x-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Te he asustado a ti",
+      "pu": "t’únkini cheraxkani",
+      "seg": "t’únkini che-ra-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nos has asustado a nosotros",
+      "pu": "juchants’ïni cheraxkari",
+      "seg": "juchants’ïni che-ra-x-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los he asustado a ustedes",
+      "pu": "chánkxïni cheraxkani",
+      "seg": "chánkxïni che-ra-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha te ha comprado a ti tortillas",
+      "pu": "nanaka pyachixti ichuskuta t’únkini",
+      "seg": "nanaka pya-chi-x-ti ichuskuta t’únkini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ayer tú lo has visto",
+      "pu": "witsintikwa ixexkari",
+      "seg": "witsintikwa ixe-x-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo y él lo estamos viendo",
+      "pu": "ixexakakxï",
+      "seg": "ixe-xa-ka-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo y tú lo estamos viendo",
+      "pu": "ixexakach’e",
+      "seg": "ixe-xa-ka-ch’e"
+    }
+  },
+  {
+    "translation": {
+      "es": "Lo estoy viendo",
+      "pu": "ixexakani / ixexakaixe xakari",
+      "seg": "ixe-xa-ka-ni / ixe-xa-ka-ixe xa-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Lo estás viendo",
+      "pu": "ixexakari",
+      "seg": "ixe-xa-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Lo está viendo",
+      "pu": "ixexati",
+      "seg": "ixe-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo y éllo estamos viendo",
+      "pu": "ixexakakxï",
+      "seg": "ixe-xa-ka-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo y tú lo estamos viendo",
+      "pu": "ixexakach’e",
+      "seg": "ixe-xa-ka-ch’e"
+    }
+  },
+  {
+    "translation": {
+      "es": "Lo están viendo ustedes",
+      "pu": "ixexakats’ï",
+      "seg": "ixe-xa-ka-ts’ï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Lo están viendo ellos",
+      "pu": "ixexatikxï",
+      "seg": "ixe-xa-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "No lo estoy viendo",
+      "pu": "noni ixexaka",
+      "seg": "no-ni ixe-xa-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "No lo estás viendo",
+      "pu": "nori ixexaka",
+      "seg": "no-ri ixe-xa-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ayer lo has visto",
+      "pu": "witsintikwari ixexka",
+      "seg": "witsintikwa-ri ixe-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "El hombre que ustedes están viendo",
+      "pu": "achati énkits’ï ixeni jaka",
+      "seg": "achati énki-ts’ï ixe-ni ja-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y ellos lo están viendo",
+      "pu": "kakxï ixexati",
+      "seg": "ka-kxï ixe-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿A quién estamos viendo?",
+      "pu": "nekxï ixexaki",
+      "seg": "ne-kxï ixe-xa-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo lo estoy viendo",
+      "pu": "ji ixexakani",
+      "seg": "ji ixe-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú lo estás viendo",
+      "pu": "t’u ixexakari",
+      "seg": "t’u ixe-xa-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Te estoy viendo",
+      "pu": "ixexakakini",
+      "seg": "ixe-xa-ka-kini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estás viendo",
+      "pu": "ixexani",
+      "seg": "ixe-xa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me está viendo",
+      "pu": "ixexatirini",
+      "seg": "ixe-xa-ti-rini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Te está viendo",
+      "pu": "ixexatikini",
+      "seg": "ixe-xa-ti-kini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo los estoy viendo a ustedes",
+      "pu": "ji ixexakakxïni",
+      "seg": "ji ixe-xa-ka-kxïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú nos estás viendo",
+      "pu": "t’u ixexakats’ïni",
+      "seg": "t’u ixe-xa-ka-ts’ïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él nos está viendo",
+      "pu": "ima ixexatits’ïni",
+      "seg": "ima ixe-xa-ti-ts’ïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él los está viendo a ustedes",
+      "pu": "ima ixexatikxïni",
+      "seg": "ima ixe-xa-ti-kxïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nosotros los estamos viendo a ustedes",
+      "pu": "jucha ixexakakxïni",
+      "seg": "jucha ixe-xa-ka-kxïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nosotros te estamos viendo",
+      "pu": "jucha ixexakakxïni",
+      "seg": "jucha ixe-xa-ka-kxïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ustedes nos están viendo",
+      "pu": "cha ixexakats’ïni",
+      "seg": "cha ixe-xa-ka-ts’ïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ustedes me están viendo",
+      "pu": "cha ixexakats’ïni",
+      "seg": "cha ixe-xa-ka-ts’ïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ello nos están viendo",
+      "pu": "tsïma ixexatits’ïni",
+      "seg": "tsïma ixe-xa-ti-ts’ïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos los están viendo a ustedes",
+      "pu": "tsïma ixexatikxïni",
+      "seg": "tsïma ixe-xa-ti-kxïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha me ha golpeado",
+      "pu": "nanakarini ataxti",
+      "seg": "nanaka-rini ata-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "y ahí mi padre me ha prestado al coyote grande",
+      "pu": "kajima juchi tatarini kwanexti jiwatsï k’érini",
+      "seg": "kajima juchi tata-rini kwane-x-ti jiwatsï k’éri-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél me ha pedido tortillas por su madre",
+      "pu": "ima kurhachixtirini ichuskuta amampampu",
+      "seg": "ima kurha-chi-x-ti-rini ichuskuta ama-mpa-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tráeme un poco de agua aquí",
+      "pu": "jwáchirinisáni itsï ixu ",
+      "seg": "jwá-chi-rini-sáni itsï ixu "
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú siempre me pides tortillas",
+      "pu": "mamenirini kurhachixïnkari ichuskuta",
+      "seg": "mameni-rini kurha-chi-xïn-ka-ri ichuskuta"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Pues yo también te he ayudado a cosechar?",
+      "pu": "nochka23 nijit’ukini jarhoataski p’ikunt’ani",
+      "seg": "no-chka23 ni-ji-t’u-kini jarhoa-ta-s-ki p’iku-nt’a-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Asustas a los pequeños",
+      "pu": "t’ucheraaxïnka sapiechani",
+      "seg": "t’uche-ra-a-xïn-ka sapi-echa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Le he dado los perros a Pedro",
+      "pu": "ji íntsaxka wichuechani Pedruni",
+      "seg": "ji ínts-a-x-ka wichu-echa-ni Pedru-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Les he dado el perro a los pequeños",
+      "pu": "ji íntsaxka wichuni sapiechani",
+      "seg": "ji ínts-a-x-ka wichu-ni sapi-echa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "éste está cantando",
+      "pu": "i pirixati",
+      "seg": "i piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "ése está cantando",
+      "pu": "inte pirixati",
+      "seg": "inte piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "aquél está cantando",
+      "pu": "ima pirixati",
+      "seg": "ima piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "él está cantando",
+      "pu": "ima pirixati",
+      "seg": "ima piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "éstos están cantando",
+      "pu": "tsï pirixati",
+      "seg": "tsï piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "ésos están cantando",
+      "pu": "tsïmi pirixati",
+      "seg": "tsïmi piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "aquéllos están cantando",
+      "pu": "tsïma pirixati",
+      "seg": "tsïma piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "ellos están cantando",
+      "pu": "tsïma pirixati",
+      "seg": "tsïma piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es éste",
+      "pu": "iixti",
+      "seg": "i-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Son ellos",
+      "pu": "tsïmaixti",
+      "seg": "tsïma-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "este gato",
+      "pu": "i misitu",
+      "seg": "i misitu"
+    }
+  },
+  {
+    "translation": {
+      "es": "ese gato",
+      "pu": "inte misitu",
+      "seg": "inte misitu"
+    }
+  },
+  {
+    "translation": {
+      "es": "aquel gato",
+      "pu": "ima misitu",
+      "seg": "ima misitu"
+    }
+  },
+  {
+    "translation": {
+      "es": "estos gatos",
+      "pu": "tsï misituicha",
+      "seg": "tsï misitu-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "esos gatos",
+      "pu": "tsïmi misituicha",
+      "seg": "tsïmi misitu-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "aquellos gatos",
+      "pu": "tsïma misituicha",
+      "seg": "tsïma misitu-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Estas cartas ya están escritas",
+      "pu": "iecha karakataecha karakata jarhaxti",
+      "seg": "i-echa kara-kata-echa kara-kata ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "mi árbol",
+      "pu": "juchi anatapu",
+      "seg": "juchi anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "tu árbol",
+      "pu": "chi anatapu",
+      "seg": "chi anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "tu árbol",
+      "pu": "t’uchi anatapu",
+      "seg": "t’uchi anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "El mío está comiendo",
+      "pu": "juchiti t’irixati",
+      "seg": "juchiti t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El tuyo está comiendo",
+      "pu": "chíti t’irixati",
+      "seg": "chíti t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El tuyo está comiendo",
+      "pu": "t’uchiti t’irixati",
+      "seg": "t’uchiti t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "su árbol de éste",
+      "pu": "íri anatapu",
+      "seg": "íri anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "su árbol de ése",
+      "pu": "interi anatapu",
+      "seg": "interi anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "su árbol de aquél o de él",
+      "pu": "imeri anatapu",
+      "seg": "imeri anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "nuestro árbol",
+      "pu": "juchari anatapu",
+      "seg": "juchari anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "su árbol de usted",
+      "pu": "chári anatapu",
+      "seg": "chári anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "su árbol de éstos",
+      "pu": "tsîri anatapu",
+      "seg": "tsîri anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "su árbol de ésos",
+      "pu": "tsïmiri anatapu",
+      "seg": "tsïmiri anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "su árbol de ellos",
+      "pu": "tsïmeri anatapu",
+      "seg": "tsïmeri anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "su árbol de aquéllos",
+      "pu": "tsïmeri anatapu",
+      "seg": "tsïmeri anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "El suyo (de éste) está comiendo",
+      "pu": "íri t’irixati",
+      "seg": "íri t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El suyo (de ése) está comiendo",
+      "pu": "interi t’irixati",
+      "seg": "interi t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El suyo (de aquél o de él) está comiendo",
+      "pu": "imeri t’irixati",
+      "seg": "imeri t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El nuestro está comiendo",
+      "pu": "juchari t’irixati",
+      "seg": "juchari t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El de usted está comiendo",
+      "pu": "chári t’irixati",
+      "seg": "chári t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El suyo de éstos está comiendo",
+      "pu": "tsîri t’irixati",
+      "seg": "tsîri t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El suyo de ésos está comiendo",
+      "pu": "tsïmiri t’irixati",
+      "seg": "tsïmiri t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El suyo de ellos está comiendo",
+      "pu": "tsïmeri t’irixati",
+      "seg": "tsïmeri t’iri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Muchos están viniendo",
+      "pu": "wánikwa jurhaxatikxï",
+      "seg": "wánikwa ju-rha-xa-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Todos están viniendo",
+      "pu": "yámintuecha jurhaxatikxï",
+      "seg": "yámintu-echa ju-rha-xa-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "El otro está viniendo",
+      "pu": "máteru jurhaxati",
+      "seg": "máteru ju-rha-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "muchos hombres",
+      "pu": "wánikwa achatiicha",
+      "seg": "wánikwa achati-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "todos ellos",
+      "pu": "yámintu tsïma",
+      "seg": "yámintu tsïma"
+    }
+  },
+  {
+    "translation": {
+      "es": "el otro pueblo",
+      "pu": "máteru irita",
+      "seg": "máteru irita"
+    }
+  },
+  {
+    "translation": {
+      "es": "Son muchos",
+      "pu": "wánikwaixtikxï",
+      "seg": "wánikwa-i-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Son todos",
+      "pu": "yámintuixtikxï",
+      "seg": "yámintu-i-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Alguien ha venido",
+      "pu": "nema jurhaxti",
+      "seg": "nema ju-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nadie ha venido",
+      "pu": "nonema jurhaxti",
+      "seg": "nonema ju-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quiere algo",
+      "pu": "wékaxti ampe",
+      "seg": "wé-ka-x-ti ampe"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él no quiere nada",
+      "pu": "noompe wékaxti",
+      "seg": "noompe wé-ka-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "No es nadie",
+      "pu": "nonemaixti",
+      "seg": "nonema-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Qué han comido?",
+      "pu": "ampekxï arhaxki",
+      "seg": "ampe-kxï a-rha-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Por qué te has reído?",
+      "pu": "antiri terekurhixki",
+      "seg": "anti-ri tere-kurhi-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cuánto ha costado eso?",
+      "pu": "naxani jukaparhaxki",
+      "seg": "naxani juka-parha-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Quién es?",
+      "pu": "néixki",
+      "seg": "né-i-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "En los dos bancos blancos",
+      "pu": "tsimani waxantsïkwarhu urhapitiicharhu",
+      "seg": "tsimani waxantsïkwa-rhu urhapiti-icha-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esa gran olla caliente",
+      "pu": "inte tsúntsu k’éri jorhepiti",
+      "seg": "inte tsúntsu k’éri jorhepiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tienes puesto un bonito collar",
+      "pu": "ma sesaxï wekach’akwa juka–xkari",
+      "seg": "ma sesaxï wekach’akwa juka–x-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esa pequeña olla fría",
+      "pu": "inte sapichu tsúntsu ts’irapiti",
+      "seg": "inte sapichu tsúntsu ts’irapiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "señormuy delgado",
+      "pu": "acha jukari k’arhisï",
+      "seg": "acha jukari k’arhisï"
+    }
+  },
+  {
+    "translation": {
+      "es": "limón bien ácido",
+      "pu": "limónixï sési xarhípiti",
+      "seg": "limónixï sési xarhípiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy pequeño",
+      "pu": "sapichuixkani",
+      "seg": "sapichu-i-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos son grandes",
+      "pu": "k’ératiixtikxï",
+      "seg": "k’érati-i-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "este perro",
+      "pu": "i wíchu",
+      "seg": "i wíchu"
+    }
+  },
+  {
+    "translation": {
+      "es": "esa mujer",
+      "pu": "inte warhiti",
+      "seg": "inte warhiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "aquel árbol",
+      "pu": "ima anatapu",
+      "seg": "ima anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "estos gatos",
+      "pu": "tsï misituicha",
+      "seg": "tsï misitu-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "esas guacamayas",
+      "pu": "tsïmi kakatsïicha",
+      "seg": "tsïmi kakatsï-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "aquellos bebés",
+      "pu": "tsïma charhakuicha",
+      "seg": "tsïma charhaku-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "mi coyote",
+      "pu": "juchi jiwatsï",
+      "seg": "juchi jiwatsï"
+    }
+  },
+  {
+    "translation": {
+      "es": "tu hermano",
+      "pu": "chi mími",
+      "seg": "chi mími"
+    }
+  },
+  {
+    "translation": {
+      "es": "su hermana de ésta",
+      "pu": "íri jinkonikwa",
+      "seg": "íri jinkonikwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "su olla de ése",
+      "pu": "interi tsúntsu",
+      "seg": "interi tsúntsu"
+    }
+  },
+  {
+    "translation": {
+      "es": "su hijo de él",
+      "pu": "imeri wátsï",
+      "seg": "imeri wátsï"
+    }
+  },
+  {
+    "translation": {
+      "es": "nuestra gallina",
+      "pu": "juchari tsíkata",
+      "seg": "juchari tsíkata"
+    }
+  },
+  {
+    "translation": {
+      "es": "su muchacha de ustedes",
+      "pu": "chári nanaza",
+      "seg": "chári nanaza"
+    }
+  },
+  {
+    "translation": {
+      "es": "su isla de éstos",
+      "pu": "tsîri japonta",
+      "seg": "tsîri japonta"
+    }
+  },
+  {
+    "translation": {
+      "es": "su pueblo de ésos",
+      "pu": "ts’ïmiri irita",
+      "seg": "ts’ïmiri irita"
+    }
+  },
+  {
+    "translation": {
+      "es": "su milpa de aquéllos",
+      "pu": "tsïmeri tarheta",
+      "seg": "tsïmeri tarheta"
+    }
+  },
+  {
+    "translation": {
+      "es": "muchas puertas wánikwa",
+      "pu": "wánikwa mitakwaicha",
+      "seg": "wánikwa mitakwa-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "muchas piedras",
+      "pu": "tsakapuicha",
+      "seg": "tsakapu-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "mucha comida",
+      "pu": "kánikwa t’irekwa",
+      "seg": "kánikwa t’irekwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "mucha agua",
+      "pu": "kánikwa itsï",
+      "seg": "kánikwa itsï"
+    }
+  },
+  {
+    "translation": {
+      "es": "todas las mujeres",
+      "pu": "yámintu warhiticha",
+      "seg": "yámintu warhiti-cha"
+    }
+  },
+  {
+    "translation": {
+      "es": "el otro camino",
+      "pu": "máteru xanaru",
+      "seg": "máteru xanaru"
+    }
+  },
+  {
+    "translation": {
+      "es": "un árbol",
+      "pu": "ma anatapu",
+      "seg": "ma anatapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "dos árboles",
+      "pu": "tsimani anatapuecha",
+      "seg": "tsimani anatapu-echa"
+    }
+  },
+  {
+    "translation": {
+      "es": "un gallo",
+      "pu": "ma t’arhechu",
+      "seg": "ma t’arhechu"
+    }
+  },
+  {
+    "translation": {
+      "es": "cuatro gallos",
+      "pu": "t’ámu t’arhechuecha",
+      "seg": "t’ámu t’arhechu-echa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Decían que había una mujer floja y aquella mujer era muy floja No daba de comer a su esposo",
+      "pu": "jarhaxptina ma wárhi xépiti ka ima wárhi xépini xépininaNo t’iri raniwámpa ni",
+      "seg": "ja-rha-x-p-ti-na ma wárhi xépiti ka ima wárhi xépi-ni xépi-ni-na-No t’iri ra-ni-wámpa ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y la mujer era floja Ella no le hacía comida",
+      "pu": "ka wárhi xépini ima no t’irikwa úkuni",
+      "seg": "ka wárhi xépi-ni ima no t’irikwa ú-ku-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "un grupo de cantantes",
+      "pu": "ma pireriicha",
+      "seg": "ma pireri-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "un grupo de hombres",
+      "pu": "ma achatiicha",
+      "seg": "ma achati-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "cada pueblo",
+      "pu": "mantani irita",
+      "seg": "mantani irita"
+    }
+  },
+  {
+    "translation": {
+      "es": "cada año",
+      "pu": "mantani wéxurhini",
+      "seg": "mantani wéxurhini"
+    }
+  },
+  {
+    "translation": {
+      "es": "algunos árboles",
+      "pu": "maru anatapuicha",
+      "seg": "maru anatapu-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "algunos muchachos",
+      "pu": "maru tatakaicha",
+      "seg": "maru tataka-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tus hermanas comen",
+      "pu": "chítiicha jinkonikwatiicha t’irixïnti",
+      "seg": "chíti-icha jinkonikwa-ti-icha t’iri-xïn-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los coyotes grandes lloran",
+      "pu": "jiwatsï k’eratiicha weraxïntikxï",
+      "seg": "jiwatsï k’erati-icha we-ra-xïn-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "los grandes coyotes",
+      "pu": "jiwatsï k’eratiicha",
+      "seg": "jiwatsï k’erati-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos le están dando las flores",
+      "pu": "íntsaxatikxï tsïtsïkiichani",
+      "seg": "ínts-a-xa-ti-kxï tsïtsïki-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos le están dando flores",
+      "pu": "íntsaxatikxï tsïtsïki",
+      "seg": "ínts-a-xa-ti-kxï tsïtsïki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los dos perros están bailando",
+      "pu": "tsimani wichuicha warhaxatikxï",
+      "seg": "tsimani wichu-icha warha-xa-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Dos perros están bailando",
+      "pu": "tsimani wichu warhaxatikxï",
+      "seg": "tsimani wichu warha-xa-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Las tortillas ya se quemaron",
+      "pu": "ichuskutaicha kurhixtikxï ya",
+      "seg": "ichuskuta-icha kurhi-x-ti-kxï ya"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél me pide siempre muchas tortillas",
+      "pu": "ima mamenirini kurhachixïnti wani ichuskuta",
+      "seg": "ima mameni-rini kurha-chi-xïn-ti wani ichuskuta"
+    }
+  },
+  {
+    "translation": {
+      "es": "Trae un bulto de naranjas",
+      "pu": "jwá ma wanochi naraxa",
+      "seg": "jwá ma wanochi naraxa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tráeme aquellas naranjas",
+      "pu": "jwáchiarinitsïma naraxa icha",
+      "seg": "jwá-chi-a-rini-tsïma naraxa icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Cuando hay nubes la señora Luna no aparece",
+      "pu": "nénki janikwa jarhaka no xarharaxïnti nana kutsï",
+      "seg": "nénki janikwa ja-rha-ka no xarha-ra-xïn-ti nana kutsï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo está cortando la madera",
+      "pu": "Pablu chkárini kachukuxati",
+      "seg": "Pablu chkári-ni kachu-ku-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo viene cortando la madera",
+      "pu": "Pablo chkárini kachukupuxati",
+      "seg": "Pablo chkári-ni kachu-ku-pu-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Érase una vez un hombre que no creía que las ánimas regresaban y aquel hombre tenía dinero él tenía maíz y trigo",
+      "pu": "jarhaxptina ma achati imanki no jakak’uka éxki ánimaicha jonkwaxïnankakxï ka ima achati tumina jatsini ima jatsini tsiri ka trigu",
+      "seg": "ja-rha-x-p-ti-na ma achati ima-nki no jaka-k’u-ka éxki ánima-icha jo-nkwa-xïn-an-ka-kxï ka ima achati tumina jatsi-ni ima jatsi-ni tsiri ka trigu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y ahí está un zopilote y dice aqué",
+      "pu": "kajima jarhaxtina ma kurhitsï ka arhini ima",
+      "seg": "kajima ja-rha-x-ti-na ma kurhitsï ka arhi-ni ima"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y el zopilote dice",
+      "pu": "ka kurhitsï arhini",
+      "seg": "ka kurhitsï arhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro ha visto a Pablo",
+      "pu": "Pedru ixexti Pabluni",
+      "seg": "Pedru ixe-x-ti Pablu-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Ha visto Pedro a Pablo?",
+      "pu": "Pedru ixexki Pabluni",
+      "seg": "Pedru ixe-x-ki Pablu-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿A dónde iremos mañana?",
+      "pu": "nanikxï niapawani ",
+      "seg": "nani-kxï ni-a-pawani "
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quiere que yo cante",
+      "pu": "wékaxti ínki pirikani",
+      "seg": "wé-ka-x-ti ínki piri-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quiere que tú cantes",
+      "pu": "wékaxti ínki pirikari",
+      "seg": "wé-ka-x-ti ínki piri-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quiere que él cante",
+      "pu": "wékaxti ínki pirika",
+      "seg": "wé-ka-x-ti ínki piri-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quiere que ella cante",
+      "pu": "wékaxti ínki pirika",
+      "seg": "wé-ka-x-ti ínki piri-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quiere que nosotros cantemos",
+      "pu": "wékaxti ínki jucha pirikakxï",
+      "seg": "wé-ka-x-ti ínki jucha piri-ka-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quiere que ustedes canten",
+      "pu": "wékaxti ínki pirikats’ï",
+      "seg": "wé-ka-x-ti ínki piri-ka-ts’ï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quiere que ellos/ellas canten",
+      "pu": "wékaxti ínki tsïma pirikakxï",
+      "seg": "wé-ka-x-ti ínki tsïma piri-ka-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Te estabas yendo a la fiesta cuando te vi",
+      "pu": "niraxapkari kw’ínchikwarhu nénkikini ixika",
+      "seg": "ni-ra-xa-p-ka-ri kw’ínchikwa-rhu nénki-kini ixi-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Su esposa le dijo que él había esperado a su madre",
+      "pu": "imeri tempa arhixti íxki eront’apka amampani",
+      "seg": "imeri tempa arhi-x-ti íxki ero-nt’a-p-ka ama-mpa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél que está allá es mi hermano",
+      "pu": "imanki jini jáka juchiti mímiixti",
+      "seg": "ima-nki jini já-ka juchiti mími-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Te he traído tanto?",
+      "pu": "jwáchixkikini xáni",
+      "seg": "jwá-chi-x-ki-kini xáni"
+    }
+  },
+  {
+    "translation": {
+      "es": "No tráigame poco",
+      "pu": "no jwáchiirini sani",
+      "seg": "no jwá-chi-i-rini sani"
+    }
+  },
+  {
+    "translation": {
+      "es": "No me traiga poco",
+      "pu": "áxï jwáchiirini sani",
+      "seg": "áxï jwá-chi-i-rini sani"
+    }
+  },
+  {
+    "translation": {
+      "es": "No vengas",
+      "pu": "áxï jurha",
+      "seg": "áxï ju-rha"
+    }
+  },
+  {
+    "translation": {
+      "es": "No vengan",
+      "pu": "áxï jurhai",
+      "seg": "áxï ju-rha-i"
+    }
+  },
+  {
+    "translation": {
+      "es": "No cantes",
+      "pu": "áxï piri",
+      "seg": "áxï piri"
+    }
+  },
+  {
+    "translation": {
+      "es": "No canten",
+      "pu": "áxï pirii",
+      "seg": "áxï piri-i"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo como!",
+      "pu": "t’irik’ani",
+      "seg": "t’iri-k’a-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo comes!",
+      "pu": "t’irik’ari",
+      "seg": "t’iri-k’a-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo come él!",
+      "pu": "t’irik’a",
+      "seg": "t’iri-k’a"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo come ella!",
+      "pu": "t’irik’a",
+      "seg": "t’iri-k’a"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo comemos!",
+      "pu": "t’irik’akxï jucha",
+      "seg": "t’iri-k’a-kxï jucha"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo comen ustedes!",
+      "pu": "t’irik’ats’ï",
+      "seg": "t’iri-k’a-ts’ï"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo comen ellos!",
+      "pu": "t’irik’akxï tsïma",
+      "seg": "t’iri-k’a-kxï tsïma"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo comen ellas!",
+      "pu": "t’irik’akxï tsïma",
+      "seg": "t’iri-k’a-kxï tsïma"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Son bonitas las muchachas!",
+      "pu": "nanakaicha sési jarhak’akxï",
+      "seg": "nanaka-icha sési ja-rha-k’a-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo te duele!",
+      "pu": "p’amerhik’ari",
+      "seg": "p’ame-rhi-k’a-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo hace calor!",
+      "pu": "tsántik’a",
+      "seg": "tsánti-k’a"
+    }
+  },
+  {
+    "translation": {
+      "es": "Érase una vez una anciana",
+      "pu": "jarhaxtina ma nana k’éri",
+      "seg": "ja-rha-x-ti-na ma nana k’éri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y cuando los he visto ya andaban bien",
+      "pu": "kaénki ixeaxkani sésikxï jamaxti ya",
+      "seg": "kaénki ixe-a-x-ka-ni sési-kxï jama-x-ti ya"
+    }
+  },
+  {
+    "translation": {
+      "es": "No quiero nada",
+      "pu": "nóompe wékaxkani",
+      "seg": "nóompe wé-ka-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Sabes nadar?",
+      "pu": "mítixkiri xarhiani",
+      "seg": "mí-ti-x-ki-ri xarhia-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tienes puesto un bonito collar",
+      "pu": "sesaxï wekach’akwa jukaxkari",
+      "seg": "sesaxï wekach’akwa juka-x-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ahora la puerta está aquí",
+      "pu": "yáxï mikakwa ixu jarhaxti",
+      "seg": "yáxï mikakwa ixu ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ella es una mujer",
+      "pu": "ma warhitiixti",
+      "seg": "ma warhiti-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mi caballo es blanco",
+      "pu": "juchi kawayu urapixti",
+      "seg": "juchi kawayu urapi-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo me llamo Celia",
+      "pu": "Ji arhikurhixka Selia",
+      "seg": "Ji arhikurhixka Selia"
+    }
+  },
+  {
+    "translation": {
+      "es": "He comenzado a hablar",
+      "pu": "wénaxkani wantani",
+      "seg": "wéna-x-ka-ni wanta-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Comencé a hablar",
+      "pu": "wénaxpkani wantani",
+      "seg": "wéna-x-p-ka-ni wanta-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "La piña está dulce",
+      "pu": "piña téxti",
+      "seg": "piña té-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "La tierra se ha endurecido",
+      "pu": "echeri chopexti",
+      "seg": "echeri chope-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él está muerto",
+      "pu": "warhixti",
+      "seg": "warhixti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Estoy cociendo la carne",
+      "pu": "niniraxakani kw’iripitani",
+      "seg": "nini-ra-xa-ka-ni kw’iripita-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Las muchachas están bailando",
+      "pu": "nanakaicha warhaxatikxï",
+      "seg": "nanaka-icha warha-xa-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "La piña se está poniendo dulce",
+      "pu": "piña téxati",
+      "seg": "piña té-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "La tierra se está endureciendo",
+      "pu": "echeri chopexati",
+      "seg": "echeri chope-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él se está muriendo",
+      "pu": "warhixati",
+      "seg": "warhi-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Cada año vienes a verme",
+      "pu": "mantaniwéxurhini jurhaxïnkarini ixeni",
+      "seg": "mantaniwéxurhini ju-rha-xïn-ka-rini ixe-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Llegué cuando ellos estaban a punto de comer y siguieron comiendo",
+      "pu": "ji nyaraxka énki tsïma t’irixamka",
+      "seg": "ji nya-ra-x-ka énki tsïma t’iri-xam-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquel acaba de empezar y sigue nadando",
+      "pu": "ima xarhiaxamti",
+      "seg": "ima xarhia-xam-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿A dónde iremos mañana?",
+      "pu": "nanikxï niapawani ",
+      "seg": "nani-kxï ni-a-pawani "
+    }
+  },
+  {
+    "translation": {
+      "es": "El encuentro será aquí",
+      "pu": "ixuiati kúp’erakwa",
+      "seg": "ixu-i-a-ti kúp’erakwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él no vendrá",
+      "pu": "ima no junkwaati",
+      "seg": "ima no ju-nkwa-a-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Si no respeta la ley será castigado",
+      "pu": "énka no úaka juramukwankuni jinteati xukakata",
+      "seg": "énka no ú-a-ka juramukwa-nkuni jinte-a-ti xuka-kata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él quisiera saber",
+      "pu": "ima wékapirinti mítini",
+      "seg": "ima wé-ka-pirin-ti mí-ti-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mataríamos a la gallina si tú vinieras",
+      "pu": "wantikupirinkakxï nénkiri júpirin",
+      "seg": "wanti-ku-pirin-ka-kxï nénki-ri jú-pirin"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél leía que estaba escrito que se cerraría la puerta",
+      "pu": "ima arhint’axïnanti éxki karakata jápka íxki pwérta míkurhipirinka",
+      "seg": "ima arhi-nt’a-xïn-an-ti éxki kara-kata já-p-ka íxki pwérta mí-kurhi-pirin-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Si él quisiera regresaría este año",
+      "pu": "nénki ima wékapirinka jónkwapirinti i wéxurhini",
+      "seg": "nénki ima wé-ka-pirin-ka jó-nkwa-pirin-ti i wéxurhini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Te estoy viendo que comes",
+      "pu": "ixexakakini inki t’u t’irika",
+      "seg": "ixe-xa-ka-kini inki t’u t’iri-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "No se pasa en canoa",
+      "pu": "no pasarinaxïnti ma ichoritampu",
+      "seg": "no pasari-na-xïn-ti ma ichorita-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nuestra lengua es hablada",
+      "pu": "wantanaxïnti juchari anapu",
+      "seg": "wanta-na-xïn-ti juchari anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Juan fue un hombre",
+      "pu": "Jwánu achatiixpti",
+      "seg": "Jwánu achati-i-x-p-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "He visto que habías comido",
+      "pu": "ixexkakini inki t’u t’iripka",
+      "seg": "ixe-x-ka-kini inki t’u t’iri-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Anteriormente Jarácuaro era una isla",
+      "pu": "yóntki xarakwarhu japontaixpti",
+      "seg": "yóntki xarakwarhu japonta-i-x-p-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Anteriormente se estaba pasando en canoa",
+      "pu": "yóntki pasarinaxapti ma ichoritampu",
+      "seg": "yóntki pasari-na-xa-p-ti ma ichorita-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia diciendo a los niños que no lloren ella estaba teniendo ganas de irse",
+      "pu": "Selia arhiarini tataka sapiechani éxkikxï no weraka ima ninenchaxapti ya",
+      "seg": "Selia arhi-a-rini tataka sapi-echa-ni éxki-kxï no we-ra-ka ima ni-nencha-xa-p-ti ya"
+    }
+  },
+  {
+    "translation": {
+      "es": "Anteriormente nuestra lengua era hablada",
+      "pu": "yóntki wantanaxïnanti juchari anapu",
+      "seg": "yóntki wanta-na-xïn-an-ti juchari anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél leía que estaba escrito que se cerraría la puerta",
+      "pu": "ima arhint’axïnanti éxki karakata jápka íxki pwérta míkurhipirinka",
+      "seg": "ima arhi-nt’a-xïn-an-ti éxki kara-kata já-p-ka íxki pwérta mí-kurhi-pirin-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él seguía nadando cuando llegaste",
+      "pu": "ima xarhiaxamanti nénki t’u nyaraka",
+      "seg": "ima xarhia-xam-an-ti nénki t’u nya-ra-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ayer ustedes han cortado ese árbol",
+      "pu": "witsintikwa cha pikuxka inteni anatapuni",
+      "seg": "witsintikwa cha piku-x-ka inte-ni anatapu-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ahora la puerta está aquí",
+      "pu": "yáxï mikakwa ixu jarhaxti",
+      "seg": "yáxï mikakwa ixu ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El encuentro será aquí",
+      "pu": "ixuiati kúp’erakwa",
+      "seg": "ixu-i-a-ti kúp’erakwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él está diciendo que es aquí",
+      "pu": "arhixati íxki ixuixka",
+      "seg": "arhi-xa-ti íxki ixu-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Tráeme un poco de agua aquí!",
+      "pu": "jwáchirinisáni itsï ixu ",
+      "seg": "jwá-chi-rini-sáni itsï ixu "
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Tráeme tanta agua aquí!",
+      "pu": "jwáchirinixáni itsï ixu ",
+      "seg": "jwá-chi-rini-xáni itsï ixu "
+    }
+  },
+  {
+    "translation": {
+      "es": "Correr mucho está bien",
+      "pu": "kánikwa wiriani sési jarhaxti",
+      "seg": "kánikwa wiria-ni sési ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El mío también es grande",
+      "pu": "juchitit’u k’éxti",
+      "seg": "juchiti-t’u k’é-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El tuyo realmente come",
+      "pu": "chítintiru sési t’irexïnti",
+      "seg": "chíti-ntiru sési t’ire-xïn-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Solamente cuatro han venido",
+      "pu": "t’ámuk’u jurhaxti",
+      "seg": "t’ámu-k’u ju-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Probablemente es un perro",
+      "pu": "wíchuxaruixti",
+      "seg": "wíchu-xaru-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha trabajado también",
+      "pu": "ánchikurhixtit’u",
+      "seg": "ánchi-kurhi-x-ti-t’u"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esos están teniendo sueño yo ya me voy a dormir también",
+      "pu": "tsïmi kw’ínchaxatiksï jit’uni nirasïnka kw’íni ya",
+      "seg": "tsïmi kw’í-ncha-xa-ti-ksï ji-t’u-ni ni-ra-sïn-ka kw’í-ni ya"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pues tú también te irás",
+      "pu": "t’ut’uchkari niaka",
+      "seg": "t’u-t’u-chka-ri ni-a-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pues de veras aquí amaneceremos",
+      "pu": "ixuchkantirukxï erantiaka",
+      "seg": "ixu-chka-ntiru-kxï era-nti-a-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "y nosotros enojados estuvimos discutiendo",
+      "pu": "kakxï ikyaparini wantontskwarhepant’ani jarhaxpka",
+      "seg": "ka-kxï ikya-pa-rini wanto-nts-kwarhe-pa-nt’a-ni ja-rha-x-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Este hombre cargando a María no puede correr",
+      "pu": "i achati Mariani t’iwirarini uxti wiriani",
+      "seg": "i achati Maria-ni t’iwi-ra-rini u-x-ti wiria-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia que dice a los niños que no lloren ella estaba teniendo ganas de irse",
+      "pu": "Selia arhiarini sapiechani éxkikxï tataka no weraka ima ninenchaxapti ya",
+      "seg": "Selia arhi-a-rini sapi-echa-ni éxki-kxï tataka no we-ra-ka ima ni-nencha-xa-p-ti ya"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los hombres cansados regresan",
+      "pu": "achatiicha kwat’aratini nyant’axïntikxï",
+      "seg": "achati-icha kwat’a-ra-tini nya-nt’a-xïn-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "así él les estaba diciendo a todos aquellos que estaban sentados",
+      "pu": "íxï arhiani jarhaxpti yámentu ts’ïmanka waxakatini japka",
+      "seg": "íxï arhi-a-ni ja-rha-x-p-ti yámentu ts’ïma-nka waxa-ka-tini ja-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ustedes vestidos de rojo convertidos en extranjeros se han ido corriendo",
+      "pu": "cha charhapiti xukuparhant’atini turhixï extranjero úkwarhent’atini wiripaxkats’ï",
+      "seg": "cha charhapiti xuku-parha-nt’a-tini turhixï extranjero ú-kwarhe-nt’a-tini wiri-pa-x-ka-ts’ï"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Dónde está el juguete que fue retirado ayer?",
+      "pu": "nani jarhaxki ch’anarakwa ewatini witsintikwa",
+      "seg": "nani ja-rha-x-ki ch’anarakwa ewa-tini witsintikwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "La iglesia está allá un poco más adelante",
+      "pu": "tyoxïo jinya sániteru orhepatini jarhaxti",
+      "seg": "tyoxïo jinya sáni-teru orhe-pa-tini ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Dónde están los papeles doblados?",
+      "pu": "nanikxï jarhaxki xïranta tsïkakata",
+      "seg": "nani-kxï ja-rha-x-ki xïranta tsïka-kata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Sí aquél es muy conocido",
+      "pu": "jo jintexti ima sesi minarhikukata",
+      "seg": "jo jinte-x-ti ima sesi mi-narhi-ku-kata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él vive en una casa que está pintada de rojo",
+      "pu": "ima irikaxïnti ma kumanchikwarhu inki charhapiti atantskata jaka",
+      "seg": "ima iri-ka-xïn-ti ma kumanchikwa-rhu inki charhapiti ata-nts-kata ja-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Vendo ahí en el mercado llamado de artesanías",
+      "pu": "atarant’axïnka jima arhikata",
+      "seg": "ata-ra-nt’a-xïn-ka jima arhi-kata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tiene la pierna quebrada",
+      "pu": "kwarhat’akataixti",
+      "seg": "kwarha-t’a-kata-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Estas cartas ya están escritas",
+      "pu": "iecha karakataecha karakata jarhaxti",
+      "seg": "i-echa kara-kata-echa kara-kata ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Son dos arco iris?",
+      "pu": "tsïmani xupakataixki",
+      "seg": "tsïmani xupa-kata-i-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Estas mujeres no salen nunca",
+      "pu": "tsï warhitiicha nómeni wéraxïntikxï",
+      "seg": "tsï warhiti-icha nómeni wé-ra-xïn-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "No cantes porque vas a hacer que llueva",
+      "pu": "áxï piri jimpoka janiraakari",
+      "seg": "áxï piri jimpoka jani-ra-a-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Has comprado el chilacayote?",
+      "pu": "pyáxkiri t’ikatsïni",
+      "seg": "pyá-x-ki-ri t’ikatsï-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Dónde y cuándo me has visto?",
+      "pu": "nani ka nátini ixexkirini",
+      "seg": "nani ka nátini ixe-x-ki-rini"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿De dónde es originario Juan?",
+      "pu": "nani anapuixki Jwánu",
+      "seg": "nani anapu-i-x-ki Jwánu"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cómo te llamas?",
+      "pu": "nári arhikurhixki",
+      "seg": "ná-ri arhi-kurhi-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Qué han comido ellos ayer?",
+      "pu": "witsintikwa ampekxï arhaxki tsïma",
+      "seg": "witsintikwa ampe-kxï a-rha-x-ki tsïma"
+    }
+  },
+  {
+    "translation": {
+      "es": "Éstos ¿Por qué se ríen tanto?",
+      "pu": "tsï antixï xáni terekurhiki",
+      "seg": "tsï anti-xï xáni tere-kurhi-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él se ha caído al suelo y se ha quebrado la nariz",
+      "pu": "ima kwaratsixti ka kakarhuxti",
+      "seg": "ima kwara-tsi-x-ti ka kaka-rhu-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Tu caballo es blanco o negro?",
+      "pu": "chi kawayu urapixki o turhipin",
+      "seg": "chi kawayu urapi-x-ki o turhipi-n"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú y tu hijo son idénticos",
+      "pu": "t’uka wátsïti mák’uts’ï jarhaxka",
+      "seg": "t’uka wátsï-ti mák’u-ts’ï ja-rha-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mañana yo comeré en casa de mi hermana y de mi hermano",
+      "pu": "pawani t’iriakani juchi jinkonikwao ka mímio",
+      "seg": "pawani t’iri-a-ka-ni juchi jinkonikwa-o ka mími-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "María está mirando una flor roja y blanca",
+      "pu": "Maria exexati ma tsïtsïki charhapiti ka urapiti",
+      "seg": "Maria exe-xa-ti ma tsïtsïki charhapiti ka urapiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Quieres un poco de maíz o de pinole?",
+      "pu": "wékaxkiri sáni tsiri o sáni japumata",
+      "seg": "wé-ka-x-ki-ri sáni tsiri o sáni japumata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél leía que estaba escrito que cerraría la puerta y él no pudo",
+      "pu": "ima arhint’axïnanti éxki karakata míkurhipirinka jápka íxki pwérta ka no sáni tsiri o sáni úxti",
+      "seg": "ima arhi-nt’a-xïn-an-ti éxki kara-kata mí-kurhi-pirin-ka já-p-ka íxki pwérta ka no sáni tsiri o sáni ú-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo quería ir pero no pude caminar",
+      "pu": "ji wékaxpka nirani péru no úxpka xanarani",
+      "seg": "ji wé-ka-x-p-ka ni-ra-ni péru no ú-x-p-ka xana-ra-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Juan no sembrará pero yo sí",
+      "pu": "Jwánu no jukskaati péru ji jo",
+      "seg": "Jwánu no juks-ka-a-ti péru ji jo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él estuvo enfermo entonces se fue",
+      "pu": "p’amenchakwankuni jarhaxpti jimani niraxpti",
+      "seg": "p’amenchakwa-nkuni ja-rha-x-p-ti jimani ni-ra-x-p-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y después la señora anciana cargó sobre su espalda la puerta",
+      "pu": "ka nana k’éri tátsïkwa pwérta kwíparhati",
+      "seg": "ka nana k’éri tátsïkwa pwérta kwí-parha-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y se hacía de noche",
+      "pu": "ka chúrixpti",
+      "seg": "ka chúri-x-p-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El tlacuache se ha comido a la gallina",
+      "pu": "Uk’uri t’irixti tsikatani",
+      "seg": "Uk’uri t’irixti tsikatani"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho ha visto al gato",
+      "pu": "tataka misituni ixexti",
+      "seg": "tataka misitu-ni ixe-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es mi hermano",
+      "pu": "juchiti mímiixti",
+      "seg": "juchiti mími-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro ha visto a María",
+      "pu": "Pedru ixexti Mariani",
+      "seg": "Pedru ixe-x-ti Maria-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro le ha obsequiado ese libro a María",
+      "pu": "Pedru íntsïkurhixti inteni karakata Mariani",
+      "seg": "Pedru íntsï-kurhi-x-ti inte-ni karakata Maria-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú le has prestado un chilacayote a aquél",
+      "pu": "t’u kwanexka ma t’ikatsï imani",
+      "seg": "t’u kwane-x-ka ma t’ikatsï ima-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha le ha quitado las flores a su madre",
+      "pu": "nanaka ewaaxti tsïtsïkiichani amampani",
+      "seg": "nanaka ewa-a-x-ti tsïtsïki-icha-ni ama-mpa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Les he dado el perro a los pequeños",
+      "pu": "ji íntsaxka wichuni sapiechani",
+      "seg": "ji ínts-a-x-ka wichu-ni sapi-echa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Le he dado los perros a Pedro",
+      "pu": "ji íntsaxka wichuechani Pedruni",
+      "seg": "ji ínts-a-x-ka wichu-echa-ni Pedru-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo vendo tamales",
+      "pu": "ji meyapexïnkani k’urunta",
+      "seg": "ji meya-pe-xïn-ka-ni k’urunta"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro le ha obsequiado ese libro",
+      "pu": "Pedru íntsïkurhixti inteni karakata",
+      "seg": "Pedru íntsï-kurhi-x-ti inte-ni karakata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo he visto a una muchacha",
+      "pu": "ji ixexka ma nanakani",
+      "seg": "ji ixe-x-ka ma nanaka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquí en Pacanda toda la gente había olvidado a aquel hombre",
+      "pu": "ixu Pakanta yámentu kw’iripu mirikwarispti ya imani achatini",
+      "seg": "ixu Pakanta yámentu kw’iripu miri-kwari-s-p-ti ya ima-ni achati-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho le está dando ese sombrero",
+      "pu": "tataka íntskuxati inteni káts’ïkwa",
+      "seg": "tataka ínts-ku-xa-ti inte-ni káts’ïkwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Sí María ha dado los papeles",
+      "pu": "jo Maria íntsasti sïrantaichani",
+      "seg": "jo Maria ínts-a-s-ti sïranta-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "No he visto los papeles doblado",
+      "pu": "no xïranta ixeaxkani tsïkakata",
+      "seg": "no xïranta ixe-a-x-ka-ni tsïka-kata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Trae frijoles",
+      "pu": "jwátats’ïni ",
+      "seg": "jwá-tats’ïni "
+    }
+  },
+  {
+    "translation": {
+      "es": "Les dan vino alcohol pinole esquites y elotes",
+      "pu": "íntsaxïntiksï téchakwa ka wiraterakwa japumata wanita ka tsíri",
+      "seg": "ínts-a-xïn-ti-ksï téchakwa ka wiraterakwa japumata wanita ka tsíri"
+    }
+  },
+  {
+    "translation": {
+      "es": "El hombre ha ayudado al perro",
+      "pu": "achati jarhoataxti wichuni",
+      "seg": "achati jarhoa-ta-x-ti wichu-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "El hombre ha ayudado al perro",
+      "pu": "achati jarhoataxti wichu",
+      "seg": "achati jarhoa-ta-x-ti wichu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Sí son los tamales que le quitaré a Lola",
+      "pu": "jo k’orhuntaechanixï Lolani ewaaakani",
+      "seg": "jo k’orhunta-echa-ni-xï Lola-ni ewa-a-a-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Le quitaré los tamales a Lola",
+      "pu": "ewaaakani k’orhunta Lolani",
+      "seg": "ewa-a-a-ka-ni k’orhunta Lola-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esta mujer se está lavando la cara",
+      "pu": "i warhiti jupanarhixati k’ánarhikwani",
+      "seg": "i warhiti jupa-narhi-xa-ti k’ánarhikwa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me está doliendo el estómago",
+      "pu": "p’amearhaxakani xïturhini",
+      "seg": "p’ame-arha-xa-ka-ni xïturhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha se está arrugando en la frente",
+      "pu": "nanaka xununarhixati tserhukwarhu",
+      "seg": "nanaka xunu-narhi-xa-ti tserhukwa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando en el brazo",
+      "pu": "kurhuxuxakani ják’irhu",
+      "seg": "kurhu-xu-xa-ka-ni ják’i-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "He visto la pequeña gallina roja",
+      "pu": "ji ixexka sapichuni charhapitini",
+      "seg": "ji ixe-x-ka sapichu-ni charhapiti-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú has matado al gran conejo blanco",
+      "pu": "wantikuxkari awani teyapiti urapitini",
+      "seg": "wanti-ku-x-ka-ri awani teyapiti urapiti-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro le ha obsequiado ese libro",
+      "pu": "Pedru íntsïkurhixti inteni karakata",
+      "seg": "Pedru íntsï-kurhi-x-ti inte-ni karakata"
+    }
+  },
+  {
+    "translation": {
+      "es": "las hojas de ese árbol",
+      "pu": "chkúriicha inte anatapuiri",
+      "seg": "chkúri-icha inte anatapu-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el jabón de María",
+      "pu": "xapo Mariairi",
+      "seg": "xapo Maria-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "la mano de Juan",
+      "pu": "Jwánuiri jak’i",
+      "seg": "Jwánu-iri jak’i"
+    }
+  },
+  {
+    "translation": {
+      "es": "la penca del maguey",
+      "pu": "akampairi chkúri",
+      "seg": "akampa-iri chkúri"
+    }
+  },
+  {
+    "translation": {
+      "es": "la pata del perro negro",
+      "pu": "jantsiri wíchu turhipitiiri",
+      "seg": "jantsiri wíchu turhipiti-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el gato de mi hermano mayor",
+      "pu": "misitu juchi mími k’ériiri",
+      "seg": "misitu juchi mími k’éri-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el perro de tu amigo",
+      "pu": "wíchu amigutiiri",
+      "seg": "wíchu amigu-ti-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el dinero de tu hermano",
+      "pu": "tumina ermanutiiri",
+      "seg": "tumina ermanu-ti-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "la hermana de Pedro",
+      "pu": "pirimpa Pedruiri",
+      "seg": "piri-mpa Pedru-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "la madre de María",
+      "pu": "amampa Mariairi",
+      "seg": "ama-mpa Maria-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "un costal de naranjas",
+      "pu": "wanochi naraxairi",
+      "seg": "wanochi naraxa-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el agua de dos ollas",
+      "pu": "itsï tsimani tsúntsuichairi",
+      "seg": "itsï tsimani tsúntsu-icha-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el pan de trigo",
+      "pu": "kurhinta triguiri",
+      "seg": "kurhinta trigu-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el cinturón de cuero",
+      "pu": "sint’oroni xïkwiriiri",
+      "seg": "sint’oroni xïkwiri-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "las hojas de ese árbol",
+      "pu": "chkúriicha inte anatapuiri",
+      "seg": "chkúri-icha inte anatapu-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "las alas de ese pájaro",
+      "pu": "káxurhak’uicha inte kwíniiri",
+      "seg": "káxurhak’u-icha inte kwíni-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el sonido de la trompeta",
+      "pu": "kuxtakwa kornetairi",
+      "seg": "kuxtakwa korneta-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "la alegría de la muchacha",
+      "pu": "tsipikwa nanakairi",
+      "seg": "tsipikwa nanaka-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "el costal de manzanas",
+      "pu": "wanochi mansana",
+      "seg": "wanochi mansana"
+    }
+  },
+  {
+    "translation": {
+      "es": "la casa de madera",
+      "pu": "kt’a chk’ári",
+      "seg": "kt’a chk’ári"
+    }
+  },
+  {
+    "translation": {
+      "es": "la caja de metal",
+      "pu": "kaja tiamu",
+      "seg": "kaja tiamu"
+    }
+  },
+  {
+    "translation": {
+      "es": "el costal de manzanas",
+      "pu": "wanochi mansana",
+      "seg": "wanochi mansana"
+    }
+  },
+  {
+    "translation": {
+      "es": "las manzanas del costal",
+      "pu": "mansana wanochi",
+      "seg": "mansana wanochi"
+    }
+  },
+  {
+    "translation": {
+      "es": "la casa de madera",
+      "pu": "kt’a chk’ári",
+      "seg": "kt’a chk’ári"
+    }
+  },
+  {
+    "translation": {
+      "es": "la madera de la casa",
+      "pu": "chk’ári kt’a",
+      "seg": "chk’ári kt’a"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré al mercado",
+      "pu": "niakani merkadurhu",
+      "seg": "ni-a-ka-ni merkadu-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él le está soplando al fuego",
+      "pu": "p’unitaxati chp’írirhu",
+      "seg": "p’uni-ta-xa-ti chp’íri-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha salido del agua",
+      "pu": "wéraxti itsïrhu",
+      "seg": "wé-ra-x-ti itsï-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Juan ha salido por la puerta",
+      "pu": "Jwánu wéraxti pwértarhu",
+      "seg": "Jwánu wé-ra-x-ti pwérta-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los perros están alrededor del fuego",
+      "pu": "Wíchuicha jarhaxtikxï wirhipantani chp’írirhu",
+      "seg": "Wíchu-icha ja-rha-x-ti-kxï wirhipantani chp’íri-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "hace dos horas que te estoy esperando",
+      "pu": "tsimani atakwarhu énkikini erokani jarhaxti jaka",
+      "seg": "tsimani atakwa-rhu énki-kini ero-ka-ni ja-rha-x-ti ja-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos irán ahí a las once",
+      "pu": "niati jima témpinikama atakwarhu",
+      "seg": "ni-a-ti jima témpinikama atakwa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Comeré en casa de mi hermano",
+      "pu": "t’iriakani juchi mimio",
+      "seg": "t’iri-a-ka-ni juchi mimi-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré a casa de María",
+      "pu": "niakani Mariao",
+      "seg": "ni-a-ka-ni Maria-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha salido de mi casa",
+      "pu": "wéraxti juchinio",
+      "seg": "wé-ra-x-ti juchini-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha salido de mi casa",
+      "pu": "wéraxti juchinio",
+      "seg": "wé-ra-x-ti juchini-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha salido del mío",
+      "pu": "wéraxti juchitirhu",
+      "seg": "wé-ra-x-ti juchiti-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú has subido con ellos",
+      "pu": "karharaxkari tsïmankuni",
+      "seg": "karha-ra-x-ka-ri tsïma-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú te has ido con el dinero",
+      "pu": "niraxkari tuminankuni",
+      "seg": "ni-ra-x-ka-ri tumina-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nosotros nos hemos alimentado con pescado",
+      "pu": "arhaxkakxï kurhuchankuni",
+      "seg": "a-rha-x-ka-kxï kurhucha-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "La mujer siente vergüenza con su hijo",
+      "pu": "warhiti k’uratsixïnti wáp’ampankuni",
+      "seg": "warhiti k’ura-tsi-xïn-ti wáp’a-mpa-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "María está orgullosa con su hijo",
+      "pu": "Maria teparakurhixïnti wáp’ampankuni",
+      "seg": "Maria tepa-ra-kurhi-xïn-ti wáp’a-mpa-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos se han ido en la tarde",
+      "pu": "niraxtikxï inchatarunkuni",
+      "seg": "ni-ra-x-ti-kxï inchataru-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me iré contigo mañana",
+      "pu": "t’únkoni niaka pawani",
+      "seg": "t’ú-nkoni ni-a-ka pawani"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cuál de sus hijos está viviendo con ella?",
+      "pu": "naki chári wátsïechaeri inteni jinkuni irekaxaki",
+      "seg": "naki chári wátsï-echa-eri inte-ni jinkuni ire-ka-xa-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Rómpelo con la mano!",
+      "pu": "kach’ukujak’i mpu",
+      "seg": "kach’u-ku-jak’i mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré a Janitzio gracias a ti",
+      "pu": "niakani xanichu t’úmpu",
+      "seg": "ni-a-ka-ni xanichu t’ú-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "He atravesado el camino",
+      "pu": "parhikurhixpkani xanarumpu",
+      "seg": "parhi-kurhi-x-p-ka-ni xanaru-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré al mercado",
+      "pu": "niakani plasampu",
+      "seg": "ni-a-ka-ni plasa-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré al mercado",
+      "pu": "niakani plasarhu",
+      "seg": "ni-a-ka-ni plasa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Colocaré la comida dentro de la canasta",
+      "pu": "jatsiakani t’irikwa kanimumpu",
+      "seg": "jatsi-a-ka-ni t’irikwa kanimu-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Colocaré la comida dentro de la canasta",
+      "pu": "jatsiakani t’irikwa kanimurhu",
+      "seg": "jatsi-a-ka-ni t’irikwa kanimu-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Por qué irás al otro pueblo?",
+      "pu": "antiri niamateru iritampu ",
+      "seg": "anti-ri ni-a-materu irita-mpu "
+    }
+  },
+  {
+    "translation": {
+      "es": "En el pueblo se hace la fiesta",
+      "pu": "iretarhu kw’ínchekwa úkwarhisïnti",
+      "seg": "ireta-rhu kw’ínchekwa ú-kwarhi-sïn-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "En mi casa hay dos mesas",
+      "pu": "juchinimpu jarhaxtikxï tsimani mesaicha",
+      "seg": "juchini-mpu ja-rha-x-ti-kxï tsimani mesa-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "En mi casa hay dos mesas",
+      "pu": "juchinio jarhaxtikxï tsimani mesaicha",
+      "seg": "juchini-o ja-rha-x-ti-kxï tsimani mesa-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "He llegado a la iglesia al atardecer",
+      "pu": "tyoxïo nyánt’axkani inchatirumpu",
+      "seg": "tyoxïo nyá-nt’a-x-ka-ni inchatiru-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "En el mes de agosto llueve",
+      "pu": "kutsïmpu agostumpu janixïnti",
+      "seg": "kutsï-mpu agostu-mpu jani-xïn-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Lo sé por él",
+      "pu": "mítixkani imampu",
+      "seg": "mí-ti-x-ka-ni ima-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Las flores se están doblando por el peso",
+      "pu": "tsïtsïki kuntikurhixati kwetsapikwampu",
+      "seg": "tsïtsïki kunti-kurhi-xa-ti kwetsapikwa-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél me ha pedido tortillas para su madre",
+      "pu": "ima kurhachixtirini ichuskuta amampampu",
+      "seg": "ima kurha-chi-x-ti-rini ichuskuta ama-mpa-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "La casa está hecha por Pablo",
+      "pu": "kumanchikwa úkata jalati ya Pabluni jimpo",
+      "seg": "kumanchikwa ú-kata ja-la-ti ya Pablu-ni jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo ha llorado a causa de María",
+      "pu": "Pablu weraxti Mariani jimpo",
+      "seg": "Pablu we-ra-x-ti Maria-ni jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú regresarás conmigo",
+      "pu": "t’u jinteni jinkoni júnkwaaka",
+      "seg": "t’u jinteni jinkoni jú-nkwa-a-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos han cantando con él",
+      "pu": "pirixtikxï imani jinkoni",
+      "seg": "piri-x-ti-kxï ima-ni jinkoni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Llegué al atardecer",
+      "pu": "ji nyánt’axka inchatiru jimpo",
+      "seg": "ji nyá-nt’a-x-ka inchatiru jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo ha llorado a causa de María",
+      "pu": "Pablu weraxti Mariampu",
+      "seg": "Pablu we-ra-x-ti Maria-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Llegué al atardecer",
+      "pu": "ji nyánt’axka inchatarumpu",
+      "seg": "ji nyá-nt’a-x-ka inchataru-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú regresarás conmigo",
+      "pu": "t’u jinteninkuni júnkwaaka",
+      "seg": "t’u jinteni-nkuni jú-nkwa-a-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos han cantando con él",
+      "pu": "pirixtikxï imankuni",
+      "seg": "piri-x-ti-kxï ima-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "El agua del pozo es buena",
+      "pu": "itsï tirhimakwa anapu ampakixti",
+      "seg": "itsï tirhimakwa anapu ampaki-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquéllos del pueblo de allá cantan bien",
+      "pu": "tsïma jini irita anapu pirixïnti sési",
+      "seg": "tsïma jini irita anapu piri-xïn-ti sési"
+    }
+  },
+  {
+    "translation": {
+      "es": "No me he acostumbrado a la comida de aquí",
+      "pu": "no p’intexkani t’irikwa ixu anapu",
+      "seg": "no p’inte-x-ka-ni t’irikwa ixu anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy originario de Jarácuaro",
+      "pu": "ji xarhakwarhu anapuixka",
+      "seg": "ji xarhakwarhu anapu-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los de Jarácuaro han limpiado la calle",
+      "pu": "Xarakwarhu anapuicha ampanskaxtikxï xanaruni",
+      "seg": "Xarakwarhu anapu-icha ampa-nska-x-ti-kxï xanaru-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Antes nuestra lengua era hablada",
+      "pu": "yóntki wantanaxïnanti juchari anapu",
+      "seg": "yóntki wanta-na-xïn-an-ti juchari anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Juan es quien sabe hablar la lengua española",
+      "pu": "Jwánuxï mítixti wantani kasteyanu anapu",
+      "seg": "Jwánu-xï mí-ti-x-ti wanta-ni kasteyanu anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél vino también para trabajar",
+      "pu": "ima jurhaxti para ánchikurhinit’u",
+      "seg": "ima ju-rha-x-ti para ánchi-kurhi-ni-t’u"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho debe quitar algo (desvestirse) para dormir",
+      "pu": "tataka jatsixti para p’irani ampe para kw’íni",
+      "seg": "tataka jatsi-x-ti para p’ira-ni ampe para kw’í-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Comeré para ti",
+      "pu": "ji áaka para t’u",
+      "seg": "ji á-a-ka para t’u"
+    }
+  },
+  {
+    "translation": {
+      "es": "Comeré para ti",
+      "pu": "ji áaka para t’umpu",
+      "seg": "ji á-a-ka para t’u-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Comeré para ti",
+      "pu": "ji áaka t’umpu",
+      "seg": "ji á-a-ka t’u-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "La flor se está doblando por el peso",
+      "pu": "tsïtsïki kuntikurhixati por kwetsapikwa",
+      "seg": "tsïtsïki kunti-kurhi-xa-ti por kwetsapikwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "La flor se está doblando por el peso",
+      "pu": "tsïtsïki kuntikurhixati por kwetsapikwampu",
+      "seg": "tsïtsïki kunti-kurhi-xa-ti por kwetsapikwa-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "La flor se está doblando por el peso",
+      "pu": "tsïtsïki kuntikurhixati kwetsapikwampu",
+      "seg": "tsïtsïki kunti-kurhi-xa-ti kwetsapikwa-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "De veras quiero que hagas un hoyo",
+      "pu": "de véraswékaxïnka ixu jarhanarhini",
+      "seg": "de véraswé-ka-xïn-ka ixu jarha-narhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro está sentado en la cama",
+      "pu": "Pedro waxakasti kamarhu",
+      "seg": "Pedro waxa-ka-s-ti kama-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro está sentado en la cama de María",
+      "pu": "Pedro waxakakusti Mariani kamarhu",
+      "seg": "Pedro waxa-ka-ku-s-ti Maria-ni kama-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "La señora anciana ha encontrado el dinero",
+      "pu": "nana k’éri ixent’axti tumina",
+      "seg": "nana k’éri ixe-nt’a-x-ti tumina"
+    }
+  },
+  {
+    "translation": {
+      "es": "La señora anciana ha encontrado nuestro dinero",
+      "pu": "nana k’éri ixechint’axtits’ïni tumina",
+      "seg": "nana k’éri ixe-chi-nt’a-x-ti-ts’ïni tumina"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha lavado la cara de alguien",
+      "pu": "jupanarhikuaxti",
+      "seg": "jupa-narhi-ku-a-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él te los ha robado",
+      "pu": "xïpachiaxtikini",
+      "seg": "xïpa-chi-a-x-ti-kini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él se ha lavado la cara",
+      "pu": "jupanarhixti",
+      "seg": "jupa-narhi-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha lavado la cara de alguien",
+      "pu": "jupanarhikuxti",
+      "seg": "jupa-narhi-ku-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha lavado la cara de alguien en el lugar de alguien más",
+      "pu": "jupanarhikukuxti",
+      "seg": "jupa-narhi-ku-ku-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "María me paga en lugar de otra persona",
+      "pu": "Mariareni meyamukuchesti meyamukuchesti",
+      "seg": "Mariareni meyamukuchesti meya-mu-ku-che-s-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "María va a pedirle a Celia que traiga un tamal para mí",
+      "pu": "Mariareni jwárakucheati ma k’orhunta Seliani",
+      "seg": "Maria-reni jwá-ra-ku-che-a-ti ma k’orhunta Selia-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mañana comeré",
+      "pu": "pawani t’iriakani",
+      "seg": "pawani t’iri-a-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Sí lo haré comer",
+      "pu": "jo t’iriraakani",
+      "seg": "jo t’iri-ra-a-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Lo haces dormir",
+      "pu": "kw’ítaxïnkari",
+      "seg": "kw’í-ta-xïn-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "No estoy creyendo lo que me dices",
+      "pu": "nókini jakak’uxakani",
+      "seg": "nó-kini jaka-k’u-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél me está haciendo creer que es un joven",
+      "pu": "imarini jakak’utaraxati íxki ima túmpiixka",
+      "seg": "ima-rini jaka-k’u-tara-xa-ti íxki ima túmpi-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo ha visto a Celia",
+      "pu": "Pablu ixexti Seliani",
+      "seg": "Pablu ixe-x-ti Selia-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo se ha visto",
+      "pu": "pablu ixekurhixti",
+      "seg": "pablu ixe-kurhi-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Marcos ha golpeado al perro",
+      "pu": "Marcosï ataxti wíchuni",
+      "seg": "Marcosï ata-x-ti wíchu-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Marcos se ha golpeado",
+      "pu": "Marcosï atakurhixti",
+      "seg": "Marcosï ata-kurhi-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia le dijo un cuento a la muchacha",
+      "pu": "Selia arhixpti ma wantantskwa nanakani",
+      "seg": "Selia arhi-x-p-ti ma wantantskwa nanaka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo me llamo Celia",
+      "pu": "ji arhikurhixka Selia",
+      "seg": "ji arhi-kurhi-x-ka Selia"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia ha llevado comida",
+      "pu": "Selia pásti t’irekwa",
+      "seg": "Selia pá-s-ti t’irekwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia se ha llevado su comida",
+      "pu": "Selia pákurhisti t’irekwa",
+      "seg": "Selia pá-kurhi-s-ti t’irekwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo ha traído ropa",
+      "pu": "Pablu jwáxti xukuparhakwa",
+      "seg": "Pablu jwá-x-ti xukuparhakwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo ha traído su ropa",
+      "pu": "Pablu jwákurhixti xukuparhakwa",
+      "seg": "Pablu jwá-kurhi-x-ti xukuparhakwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél camina",
+      "pu": "ima xanaraxïnti",
+      "seg": "ima xana-ra-xïn-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél camina por sus propios medios",
+      "pu": "ima xanarakurhixïnti",
+      "seg": "ima xana-ra-kurhi-xïn-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho está dando ese sombrero",
+      "pu": "tataka íntskuxati inteni káts’ïkwa",
+      "seg": "tataka ínts-ku-xa-ti inte-ni káts’ïkwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho está regalando ese sombrero solo",
+      "pu": "tataka íntskurhixati inteni káts’ïkwa",
+      "seg": "tataka ínts-kurhi-xa-ti inte-ni káts’ïkwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél está cantando",
+      "pu": "ima pirixati",
+      "seg": "ima piri-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél está cantando solo",
+      "pu": "ima pirikurhixati",
+      "seg": "ima piri-kurhi-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha está bailando",
+      "pu": "nanaka warhaxati",
+      "seg": "nanaka warha-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha está bailando sola",
+      "pu": "nanaka warhakurhixati",
+      "seg": "nanaka warha-kurhi-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha está hablando",
+      "pu": "Nanaka wantaxati",
+      "seg": "Nanaka wantaxati"
+    }
+  },
+  {
+    "translation": {
+      "es": "La muchacha está platicando",
+      "pu": "nanaka wantontskurhixati",
+      "seg": "nanaka wanto-nts-kurhi-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia está hablando bajo",
+      "pu": "Selia wantatsixati",
+      "seg": "Selia wantatsixati"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia está rezando",
+      "pu": "Selia wantatsikurhixati",
+      "seg": "Selia wanta-tsi-kurhi-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia abre la puerta",
+      "pu": "Selia mítaxti míkwani",
+      "seg": "Selia mí-ta-x-ti míkwa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "La puerta se ha cerrado",
+      "pu": "míkwa míkurhixti",
+      "seg": "míkwa mí-kurhi-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia ha subido al gato a la silla",
+      "pu": "Selia karhataxti misituni waxantsïkwarhu",
+      "seg": "Selia karha-ta-x-ti misitu-ni waxantsïkwa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "El gato se ha subido a la silla",
+      "pu": "misitu karharaxti waxantsïkwarhu",
+      "seg": "misitu karha-ra-x-ti waxantsïkwa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando la mano",
+      "pu": "kurhik’uxakani",
+      "seg": "kurhi-k’u-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando la nariz",
+      "pu": "kurhirhuxakani",
+      "seg": "kurhi-rhu-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando la cara",
+      "pu": "kurhinarhixakani",
+      "seg": "kurhi-narhi-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando el cuello",
+      "pu": "kurhich’axakani",
+      "seg": "kurhi-ch’a-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando las nalgas",
+      "pu": "kurhich’uxakani",
+      "seg": "kurhi-ch’u-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando las orejas",
+      "pu": "kurhintixakani",
+      "seg": "kurhi-nti-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando el pie",
+      "pu": "kurhintuxakani",
+      "seg": "kurhi-ntu-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "El agua está hirviendo",
+      "pu": "Itsï puramixati",
+      "seg": "Itsï pura-mi-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "La mujer está poniendo a hervir el agua",
+      "pu": "Warhi puramaxati itsï",
+      "seg": "Warhi pura-ma-xa-ti itsï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él se está quemando",
+      "pu": "kurhip’ixati",
+      "seg": "kurhi-p’i-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él está quemando algo",
+      "pu": "kurhip’axati",
+      "seg": "kurhi-p’a-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "La camisa se ha descolgado",
+      "pu": "tsirunixti tánikwa",
+      "seg": "tsiru-ni-x-ti tánikwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ayer Pedro ha descolgado la camisa de su hijo",
+      "pu": "witsintikwa Petu tsirunaxti tánikwa imeri wáp’airi",
+      "seg": "witsintikwa Petu tsiru-na-x-ti tánikwa imeri wáp’a-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nosotros nos hemos visto",
+      "pu": "eratip’eraxkakxï",
+      "seg": "era-ti-p’era-x-ka-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos se han separado",
+      "pu": "jurap’eraxtikxï",
+      "seg": "jura-p’era-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "No vayas allá porque allá se matan",
+      "pu": "áxï nijini jimpoka jiniwanti kup’era naxïnka",
+      "seg": "áxï ni-jini jimpoka jini-wanti ku-p’era na-xïn-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Las personas están sentadas en el agua",
+      "pu": "kw’iripuicha waxamixti",
+      "seg": "kw’iripu-icha waxa-mi-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Hay gente sentada en el agua",
+      "pu": "waxaminaxti",
+      "seg": "waxa-mi-na-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo he visto tu gato",
+      "pu": "ji ixexka chiti misituni",
+      "seg": "ji ixe-x-ka chiti misitu-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Sí tu gato ha sido visto",
+      "pu": "jo chiti misitu ixenaxti",
+      "seg": "jo chiti misitu ixe-na-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho te ha quitado cenizas",
+      "pu": "tatakakini ewaxti t’upuri xapu",
+      "seg": "tataka-kini ewa-x-ti t’upuri xapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú has sido quitado cenizas",
+      "pu": "t’u ewanaxka t’upuri xapu",
+      "seg": "t’u ewa-na-x-ka t’upuri xapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo ha dado un libro a María",
+      "pu": "Pablu íntskuxti ma karakata Mariani",
+      "seg": "Pablu ínts-ku-x-ti ma karakata Maria-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Un libro le fue dado a María",
+      "pu": "Maria íntskunaxti ma karakata",
+      "seg": "Maria ínts-ku-na-x-ti ma karakata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Un libro le fue dado a María por Pablo",
+      "pu": "Maria íntskunasti ma karakata Pabluni jimpo",
+      "seg": "Maria ínts-ku-na-s-ti ma karakata Pablu-ni jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los borrachos están bailando",
+      "pu": "kawiriecha warhaxati",
+      "seg": "kawiri-echa warha-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Bailan borrachos",
+      "pu": "warhanaxati kawiriecha",
+      "seg": "warha-na-xa-ti kawiri-echa"
+    }
+  },
+  {
+    "translation": {
+      "es": "El tronco es quemado por nuestro padre",
+      "pu": "chkúri kurhikata jarhaxti juchari tatampu",
+      "seg": "chkúri kurhi-kata ja-rha-x-ti juchari tata-mpu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los árboles están cortados por los leñadores",
+      "pu": "anatapuicha chapakata jarhaxtikxï iwiriichani jimpo",
+      "seg": "anatapu-icha chapa-kata ja-rha-x-ti-kxï iwiri-icha-ni jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los hombres fueron escogidos por el jefe",
+      "pu": "achatiecha jintespti erakukata juramutini jimpo",
+      "seg": "achati-echa jinte-s-p-ti era-ku-kata juramuti-ni jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Si no respeta la ley será castigado",
+      "pu": "énka no úaka juramukwankuni jinteati xukakata",
+      "seg": "énka no ú-a-ka juramukwa-nkuni jinte-a-ti xuka-kata"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú asustas a los pequeños",
+      "pu": "t’u cheraaxïnka sapiechani",
+      "seg": "t’u che-ra-a-xïn-ka sapi-echa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú asustas a la gente",
+      "pu": "t’u cherapexïnka",
+      "seg": "t’u che-ra-pe-xïn-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mi hijo ha prestado su escoba a esta mujer",
+      "pu": "juchi wáp’a kwanesti imeri pánkwani warhini",
+      "seg": "juchi wáp’a kwane-s-ti imeri pánkwa-ni warhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mi hijo ha prestado su escoba",
+      "pu": "juchi imeri wáp’a kwanepesti pánkwani",
+      "seg": "juchi imeri wáp’a kwane-pe-s-ti pánkwa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Fui haciendo plática a mi hija y no me contestó",
+      "pu": "ji wantarapaxkani juchi wáp’ani ka no k’urachesti",
+      "seg": "ji wanta-ra-pa-x-ka-ni juchi wáp’a-ni ka no k’ura-che-s-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "En la calle temprano saludo",
+      "pu": "xankaru xarini wantarapexïnkani",
+      "seg": "xankaru xarini wanta-ra-pe-xïn-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo vendo tamales a las mujeres de Cuanajo",
+      "pu": "ji meyapexïnkani k’urunta warhitiecha kwanaxu anapu",
+      "seg": "ji meya-pe-xïn-ka-ni k’urunta warhiti-echa kwanaxu anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo vendo tamales",
+      "pu": "ji meyapexïnkani k’urunta",
+      "seg": "ji meya-pe-xïn-ka-ni k’urunta"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es un perro",
+      "pu": "wichuixti",
+      "seg": "wichu-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy grande",
+      "pu": "k’ériixkani",
+      "seg": "k’éri-i-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy Pablo",
+      "pu": "Pábluixkani",
+      "seg": "Páblu-i-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy yo",
+      "pu": "jíixka",
+      "seg": "jí-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es aquél",
+      "pu": "imaixti",
+      "seg": "ima-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es el mío",
+      "pu": "juchitiixti",
+      "seg": "juchiti-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Quién es?",
+      "pu": "néixki",
+      "seg": "né-i-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos son tres",
+      "pu": "tanimuixtikxï",
+      "seg": "tanimu-i-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ellos son muchos",
+      "pu": "wánikwaixtikxï",
+      "seg": "wánikwa-i-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "No es nadie",
+      "pu": "nonemaixti",
+      "seg": "nonema-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél es su hijo",
+      "pu": "ima wap’ampaixti",
+      "seg": "ima wap’a-mpa-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Juan es maestro",
+      "pu": "jwánu jorhempiriixti",
+      "seg": "jwánu jorhempiri-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El perro es negro",
+      "pu": "wíchu t’urhipitiixti",
+      "seg": "wíchu t’urhipiti-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo soy una muchacha",
+      "pu": "ji marikwa",
+      "seg": "ji marikwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tu perro es negro",
+      "pu": "chiti wichu t’urhipiti",
+      "seg": "chiti wichu t’urhipiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Qué es eso?",
+      "pu": "ampeexki",
+      "seg": "ampe-e-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esto es para remar",
+      "pu": "jinteixti para xot’ani",
+      "seg": "jinte-i-x-ti para xot’a-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Quién es ?",
+      "pu": "néeski",
+      "seg": "né-e-s-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Es el esposo de María",
+      "pu": "jintesti wámpa Mariaeri",
+      "seg": "jinte-s-ti wámpa Maria-eri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Dicen que éste era un pobre",
+      "pu": "ina jintespti ma pobri",
+      "seg": "i-na jinte-s-p-ti ma pobri"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Qué es ese animal? Éste no es león éste no es tigre ni elefante pues ¿qué animal es?",
+      "pu": "i no jintesti lioni i no jintesti tigri ni elefanti meni ampe m animaliiski",
+      "seg": "i no jinte-s-ti lioni i no jinte-s-ti tigri ni elefanti meni ampe m animali-i-s-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Así ven que un purépecha era lo que siempre había sido",
+      "pu": "ísikxï erankuxïnti éska ma p’urhe jintepka énka ménk’u ísi jintepka",
+      "seg": "ísi-kxï era-nku-xïn-ti éska ma p’urhe jinte-p-ka énka ménk’u ísi jinte-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Juan es maestro",
+      "pu": "jwánu jintesti jorhempiri",
+      "seg": "jwánu jinte-s-ti jorhempiri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquí en Pacanda toda la gente había olvidado a aquel hombre y recordaba que aquél era rico",
+      "pu": "ixu pakanta yámentu kw’iripu mirikwarispti ya imani achatini ka myánt’axapti éski ima jintepka riko",
+      "seg": "ixu pakanta yámentu kw’iripu miri-kwari-s-p-ti ya ima-ni achati-ni ka myá-nt’a-xa-p-ti éski ima jinte-p-ka riko"
+    }
+  },
+  {
+    "translation": {
+      "es": "Está aquí en Pacanda",
+      "pu": "ixu pakanta jarhasti",
+      "seg": "ixu pakanta ja-rha-s-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "De noche hay tantas estrellas",
+      "pu": "chúrikwa xáni jóskwaicha jarhaxtikxï",
+      "seg": "chúrikwa xáni jóskwa-icha ja-rha-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "El zopilote está rico",
+      "pu": "kurhitsïriko jarhaxti",
+      "seg": "kurhitsïriko ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Cuando te vi ibas a la fiesta",
+      "pu": "nénkikini ixika niraxapkari kw’ínchikwarhu",
+      "seg": "nénki-kini ixi-ka ni-ra-xa-p-ka-ri kw’ínchikwa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré a donde está la mujer",
+      "pu": "niakani jini énki warhiti jáka",
+      "seg": "ni-a-ka-ni jini énki warhiti já-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Si aquél quisiera regresaría este año",
+      "pu": "nénki ima wékapirinka jónkwapirinti i wéxurhini",
+      "seg": "nénki ima wé-ka-pirin-ka jó-nkwa-pirin-ti i wéxurhini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél viene porque tú le hablaste",
+      "pu": "ima jurhaxïnti jimpoka t’u yorhixka",
+      "seg": "ima ju-rha-xïn-ti jimpoka t’u yorhi-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "No me has visto porque seguías nadando",
+      "pu": "nórini ixexka pórkiri xarhyaxamanka",
+      "seg": "nó-rini ixe-x-ka pórki-ri xarhya-xam-an-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aunque está enfermo ha venido",
+      "pu": "nák’iru p’amenchati jápka i jurhaxti",
+      "seg": "nák’iru p’amenchati já-p-ka i ju-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me iré aunque llueva",
+      "pu": "níakani nák’iru janiaka",
+      "seg": "ní-a-ka-ni nák’iru jani-a-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Juan ha venido para que lo viera",
+      "pu": "Jwánu jurhaxti pára ke ixepirinkani",
+      "seg": "Jwánu ju-rha-x-ti pára ke ixe-pirin-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Te lo digo para que lo sepas",
+      "pu": "arhixïnkakini pára íxki mítiaka",
+      "seg": "arhi-xïn-ka-kini pára íxki mí-ti-a-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Puede ser que esa mujer se vaya",
+      "pu": "péeki inte warhiti níaka",
+      "seg": "péeki inte warhiti ní-a-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Puede ser que sea Pedro",
+      "pu": "péeki Petuixka",
+      "seg": "péeki Petu-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "He visto que estabas comiendo solo",
+      "pu": "ixexkakini íxki t’u jantiak’u t’irini jápka",
+      "seg": "ixe-x-ka-kini íxki t’u jantiak’u t’iri-ni já-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Le ha dicho a la gente que él apaga ese fuego",
+      "pu": "ima arhip’exti éxki pataka ya inte chp’írini",
+      "seg": "ima arhi-p’e-x-ti éxki pata-ka ya inte chp’íri-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cómo sabes qué había llegado yo?",
+      "pu": "nári mítixki íxki ji janopka",
+      "seg": "ná-ri mí-ti-x-ki íxki ji jano-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Sabes quién vendrá?",
+      "pu": "mítixkari ne jua",
+      "seg": "mí-ti-x-ka-ri ne ju-a"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me acuerdo que no podías caminar",
+      "pu": "myánt’axïnka kante t’u no úpki xanarani",
+      "seg": "myá-nt’a-xïn-ka kante t’u no ú-p-ki xana-ra-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "No me recuerdo dónde vivía ese señor antes",
+      "pu": "nóchka myánt’axïnkani nani yóntki inte acha irekapki",
+      "seg": "nó-chka myá-nt’a-xïn-ka-ni nani yóntki inte acha ire-ka-p-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Queremos bailar",
+      "pu": "wékaxïnkakxï warhani",
+      "seg": "wé-ka-xïn-ka-kxï warha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Sabes nadar?",
+      "pu": "Mítixkiri xarhiani",
+      "seg": "Mítixkiri xarhiani"
+    }
+  },
+  {
+    "translation": {
+      "es": "El libro que lees está bueno",
+      "pu": "xïranta nénki arhint’akari sési jarhaxti",
+      "seg": "xïranta nénki arhi-nt’a-ka-ri sési ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Juan cuando salió estaba borracho",
+      "pu": "Jwánu ínki wént’aka kawiriixapti",
+      "seg": "Jwánu ínki wé-nt’a-ka kawiri-i-xa-p-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Este hombre que vive en este pueblo manda a las personas",
+      "pu": "i achati énki irikaka i iritampu juramuxïnti kw’iripuni",
+      "seg": "i achati énki iri-ka-ka i irita-mpu jura-mu-xïn-ti kw’iripu-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tú que estás llorando ven aquí",
+      "pu": "t’únki weraka ju ixu",
+      "seg": "t’ú-nki we-ra-ka ju ixu"
+    }
+  },
+  {
+    "translation": {
+      "es": "El que tiene la milpa es nuestro padre",
+      "pu": "imanki jatsika tarhetani juchari tataixti",
+      "seg": "ima-nki jatsi-ka tarheta-ni juchari tata-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El tuyo que corre es más grande",
+      "pu": "chítinki wiriaka k’éxti",
+      "seg": "chíti-nki wiria-ka k’é-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El hombre que trabaja es tu amigo",
+      "pu": "achatinki ánchikurhika chiti amigutiixti",
+      "seg": "achati-nki ánchi-kurhi-ka chiti amigu-ti-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tengo el machete que tú me prestaste",
+      "pu": "jatsixkani machetini nénkirini t’u kwáneka",
+      "seg": "jatsi-x-ka-ni macheti-ni nénki-rini t’u kwáne-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "María ha dado estos papeles que eran viejos a su esposo",
+      "pu": "Maria íntsasti tsïni sïrantaichani énki tamapuiska wámpampani",
+      "seg": "Maria ínts-a-s-ti tsï-ni sïranta-icha-ni énki tamapu-i-s-ka wámpa-mpa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "María ha dado estos papeles a su esposo que los estaba esperando",
+      "pu": "Maria íntsasti tsïni sïrantaichani wámpampani énki erokaaxapka",
+      "seg": "Maria ínts-a-s-ti tsï-ni sïranta-icha-ni wámpa-mpa-ni énki ero-ka-a-xa-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro supera a Juan en ser bueno",
+      "pu": "Pedro jatstamajati Jwánoni ampakeni",
+      "seg": "Pedro jats-ta-ma-ja-ti Jwáno-ni ampake-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro supera en ser bueno y no Juan",
+      "pu": "Pedro jatstamajati ampakeni ka no isï Jwáno",
+      "seg": "Pedro jats-ta-ma-ja-ti ampake-ni ka no isï Jwáno"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tengo más tortilla y no tú",
+      "pu": "ji jatsiskani mas ichuskuta ka no t’u",
+      "seg": "ji jatsi-s-ka-ni mas ichuskuta ka no t’u"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquí es más alto y no allá",
+      "pu": "ixu sániteru yót’arhaxïnti ka no jini",
+      "seg": "ixu sáni-teru yó-t’a-rha-xïn-ti ka no jini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Enrique es más flojo que Pedro",
+      "pu": "Enrike mas sesi xepexti ke Pedru",
+      "seg": "Enrike mas sesi xepe-x-ti ke Pedru"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esta olla es más grande que esa otra",
+      "pu": "i tsúntsu k’ésti sániteru ke inte máteru",
+      "seg": "i tsúntsu k’é-s-ti sáni-teru ke inte máteru"
+    }
+  },
+  {
+    "translation": {
+      "es": "Las muchachas se ríen más que yo",
+      "pu": "nanakaecha sániteru terekurixinti éskani ji",
+      "seg": "nanaka-echa sáni-teru tere-kuri-xin-ti éska-ni ji"
+    }
+  },
+  {
+    "translation": {
+      "es": "A Pedro le falta ser bueno así como Juan",
+      "pu": "Pedro kweratajati isï ampakeni íski Jwáno",
+      "seg": "Pedro kwera-ta-ja-ti isï ampake-ni íski Jwáno"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pedro no es tan bueno como Juan",
+      "pu": "Pedro no isï ampaketi íski Jwáno",
+      "seg": "Pedro no isï ampake-ti íski Jwáno"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esta falda es menos pequeña que la tuya",
+      "pu": "i siritaku menos sapiituesti ke t’uchiiti",
+      "seg": "i siritaku menos sapi-itu-e-s-ti ke t’uchiiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Celia es menos alta que yo",
+      "pu": "Selia menos yót’arhaxïnti ji",
+      "seg": "Selia menos yó-t’a-rha-xïn-ti ji"
+    }
+  },
+  {
+    "translation": {
+      "es": "María no es fuerte como yo",
+      "pu": "Maria no winapesti ke ji",
+      "seg": "Maria no winape-s-ti ke ji"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho se ha levantado",
+      "pu": "tataka anaxurhixti",
+      "seg": "tataka ana-xurhi-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El sapo se está inflando",
+      "pu": "kóki karhap’ixati",
+      "seg": "kóki karha-p’i-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pablo se ha inflado el brazo",
+      "pu": "Pablu karhap’ixuxti",
+      "seg": "Pablu karha-p’i-xu-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El muchacho está sentado en la calle",
+      "pu": "tataka waxaruxati",
+      "seg": "tataka waxa-ru-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me duele el estómago",
+      "pu": "p’amearhaxïnkani xïturhirhu",
+      "seg": "p’ame-arha-xïn-ka-ni xïturhi-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mi hijo está teniendo diarrea",
+      "pu": "juchiwátsïteruamaxati",
+      "seg": "juchiwátsïteru-a-ma-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Su bebé murió en el útero",
+      "pu": "imeri charhaku warhiarhaxpti",
+      "seg": "imeri charhaku warhi-arha-x-p-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El niño está sentado en el campo",
+      "pu": "wátsi waxaaxati",
+      "seg": "wátsi waxa-a-xa-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me estoy quemando en el brazo o en la mano",
+      "pu": "kurhuk’uxakani ják’irhu",
+      "seg": "kurhu-k’u-xa-ka-ni ják’i-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Él ha quemado la hoja",
+      "pu": "kurhik’uraxti",
+      "seg": "kurhi-k’u-ra-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esa mujer se está lavando la cara",
+      "pu": "i warhiti jupanarhixati k’ánarhikwani",
+      "seg": "i warhiti jupa-narhi-xa-ti k’ánarhikwa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esa mujer se está lavando los ojos",
+      "pu": "i warhiti jupanarhixati éskwaicha",
+      "seg": "i warhiti jupa-narhi-xa-ti éskwa-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Esa mujer se está lavando la frente",
+      "pu": "i warhiti jupanarhixati tsérhukwa",
+      "seg": "i warhiti jupa-narhi-xa-ti tsérhukwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Una mosca se ha pegado enmedio del comal",
+      "pu": "ma tínti mánarhikuxti erokxïrhu teroxukwa",
+      "seg": "ma tínti má-narhi-ku-x-ti erokxï-rhu teroxukwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "él ha cortado un pedazo de tela",
+      "pu": "kach’unarhikuxti",
+      "seg": "kach’u-narhi-ku-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "El sol brilla mucho",
+      "pu": "jurhiata meremerenarhixïnti",
+      "seg": "jurhiata mere-mere-narhi-xïn-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tengo miedo",
+      "pu": "chónarhixïnkani",
+      "seg": "chó-narhi-xïn-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ha agarrado su frente",
+      "pu": "jupirhuxti tsérhukwarhu",
+      "seg": "jupi-rhu-x-ti tsérhukwa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ha agarrado su nariz",
+      "pu": "jupirhuxti urhirhu",
+      "seg": "jupi-rhu-x-ti urhi-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ha agarrado una manzana",
+      "pu": "jupirhutaxti mansanani",
+      "seg": "jupi-rhu-ta-x-ti mansana-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "El perro ha olido el olor de la carne",
+      "pu": "wíchu xïpirhuxti kw’iripita",
+      "seg": "wíchu xïpi-rhu-x-ti kw’iripita"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cómo amaneciste?",
+      "pu": "nari erantixki",
+      "seg": "na-ri era-nti-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cómo estás?",
+      "pu": "nari jarhaxki",
+      "seg": "na-ri ja-rha-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cómo está usted?",
+      "pu": "na jarhaxki cha",
+      "seg": "na ja-rha-x-ki cha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Buenas tardes",
+      "pu": "nari chuxkuxki",
+      "seg": "na-ri chuxku-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Hasta pronto",
+      "pu": "menteru ya",
+      "seg": "menteru ya"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nos vemos mañana",
+      "pu": "ixep’erant’aakakxï pawani",
+      "seg": "ixe-p’era-nt’a-a-ka-kxï pawani"
+    }
+  },
+  {
+    "translation": {
+      "es": "Vuelvo mañana",
+      "pu": "ji junkwaaka pawani",
+      "seg": "ji ju-nkwa-a-ka pawani"
+    }
+  },
+  {
+    "translation": {
+      "es": "Volveré aquí",
+      "pu": "ji junkwaaka ixu",
+      "seg": "ji ju-nkwa-a-ka ixu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Volveré a tu casa",
+      "pu": "ji junkwaaka chinio",
+      "seg": "ji ju-nkwa-a-ka chi-ni-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿De dónde eres?",
+      "pu": "nari anapuixki ",
+      "seg": "na-ri anapu-i-x-ki "
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy de México",
+      "pu": "ji mejiko anapuixka",
+      "seg": "ji mejiko anapu-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy de Jarácuaro",
+      "pu": "ji xarhakwarhu anapuixka",
+      "seg": "ji xarhakwarhu anapu-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cómo te llamas?",
+      "pu": "nari arhikurhixki",
+      "seg": "na-ri arhi-kurhi-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me llamo Juan",
+      "pu": "ji arhikurhixka Jwánu",
+      "seg": "ji arhi-kurhi-x-ka Jwánu"
+    }
+  },
+  {
+    "translation": {
+      "es": "No soy purépecha",
+      "pu": "ji no p’urhexka",
+      "seg": "ji no p’urhe-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy extranjero",
+      "pu": "ji turhixïixka",
+      "seg": "ji turhixï-i-x-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "No hablo purépecha",
+      "pu": "ji no wantaxïnka p’urhepecha",
+      "seg": "ji no wanta-xïn-ka p’urhepecha"
+    }
+  },
+  {
+    "translation": {
+      "es": "No hablo su lengua",
+      "pu": "ji no wantaxïnka chari anapu",
+      "seg": "ji no wanta-xïn-ka chari anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Hablo un poco de purépecha",
+      "pu": "ji wantaxïnka p’urhepecha péru sáni",
+      "seg": "ji wanta-xïn-ka p’urhepecha péru sáni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Entiendo el purépecha",
+      "pu": "ji kurhankuxïnka p’urhepecha",
+      "seg": "ji kurha-nku-xïn-ka p’urhepecha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Entiendo un poco el purépecha",
+      "pu": "ji kurhankuxïnka p’urhepecha péru sáni",
+      "seg": "ji kurha-nku-xïn-ka p’urhepecha péru sáni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Hablo la lengua castellana",
+      "pu": "ji wantaxïnka kasteyanu anapu",
+      "seg": "ji wanta-xïn-ka kasteyanu anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Conoces la lengua castellana?",
+      "pu": "mítixkiri kasteyanu anapu",
+      "seg": "mí-ti-x-ki-ri kasteyanu anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Conoce usted la lengua castellana?",
+      "pu": "mítixki cha kasteyanu anapu",
+      "seg": "mí-ti-x-ki cha kasteyanu anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Aprendiste la lengua castellana?",
+      "pu": "jorhenkurhixkiri kasteyanu anapu",
+      "seg": "jorhe-nkurhi-x-ki-ri kasteyanu anapu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Hablas rápido",
+      "pu": "wantaxkari kokani",
+      "seg": "wanta-x-ka-ri kokani"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cuántos años tienes?",
+      "pu": "nári xáni jatirixki ya",
+      "seg": "ná-ri xáni jatiri-x-ki ya"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿A dónde fue ese camión?",
+      "pu": "nani niraxki inte kamioni",
+      "seg": "nani ni-ra-x-ki inte kamioni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cuándo salió ese camión?",
+      "pu": "na xantu niraxki inte kamioni",
+      "seg": "na xantu ni-ra-x-ki inte kamioni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Voy a esperar el autobús",
+      "pu": "ji niraxaka erokaparini kamionini",
+      "seg": "ji ni-ra-xa-ka ero-ka-parini kamioni-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los estoy esperando",
+      "pu": "jikxïni erokaxaka",
+      "seg": "ji-kxïni ero-ka-xa-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Te estuve esperando",
+      "pu": "jikini erokaxapka",
+      "seg": "ji-kini ero-ka-xa-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Estás esperando solo",
+      "pu": "erokurhixakari",
+      "seg": "ero-kurhi-xa-ka-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Vivo en casa de Celia",
+      "pu": "irikaxkani Seliao",
+      "seg": "iri-ka-x-ka-ni Selia-o"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Qué hora es?",
+      "pu": "na jantuixki",
+      "seg": "na jantu-i-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Qué día es hoy?",
+      "pu": "yáxï ampe jurhiataixki",
+      "seg": "yáxï ampe jurhiata-i-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "En el mes de agosto llueve",
+      "pu": "kutsïmpu agostumpu janixïnti",
+      "seg": "kutsï-mpu agostu-mpu jani-xïn-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me quedaré aquí otro mes",
+      "pu": "pak’araakani ixu materu kutsï",
+      "seg": "pak’a-ra-a-ka-ni ixu materu kutsï"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿En qué mes te vas?",
+      "pu": "ampe kutsïri nia",
+      "seg": "ampe kutsï-ri ni-a"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿A dónde iremos mañana?",
+      "pu": "nanikxï niapawani ",
+      "seg": "nani-kxï ni-a-pawani "
+    }
+  },
+  {
+    "translation": {
+      "es": "¿A dónde irás mañana?",
+      "pu": "naniri niapawani ",
+      "seg": "nani-ri ni-a-pawani "
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Vienes cada año?",
+      "pu": "t’u jurhaxïni mantani wéxurhini",
+      "seg": "t’u ju-rha-xïn-i mantani wéxurhini"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿En qué mes es la fiesta?",
+      "pu": "ampe kutsï k’wínchikwaia",
+      "seg": "ampe kutsï k’wínchikwa-i-a"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Dónde es la fiesta?",
+      "pu": "naniixki k’wínchikwa",
+      "seg": "nani-i-x-ki k’wínchikwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cuándo es la fiesta?",
+      "pu": "nátiniixki k’wínchikwa",
+      "seg": "nátini-i-x-ki k’wínchikwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Tienes hambre?",
+      "pu": "k’arhimaxakiri",
+      "seg": "k’arhi-ma-xa-ki-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tengo hambre",
+      "pu": "k’arhimaxakani",
+      "seg": "k’arhi-ma-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ya no tengo hambre",
+      "pu": "noteru k’arhimaxakani",
+      "seg": "noteru k’arhi-ma-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Tienes sed?",
+      "pu": "k’arhichaxakiri",
+      "seg": "k’arhi-cha-xa-ki-ri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tengo sed",
+      "pu": "k’arhichaxakani",
+      "seg": "k’arhi-cha-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ya no tengo sed",
+      "pu": "noteru k’arhichaxakani",
+      "seg": "noteru k’arhi-cha-xa-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Qué quiere usted?",
+      "pu": "ampets’ï wékaxïni",
+      "seg": "ampe-ts’ï wé-ka-xïn-i"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cuánto cuesta?",
+      "pu": "naxani jukaparhaxki",
+      "seg": "naxani juka-parha-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Cuánto cuesta aquel elote",
+      "pu": "naxani ima tsiri jukaparhaxki",
+      "seg": "naxani ima tsiri juka-parha-x-ki"
+    }
+  },
+  {
+    "translation": {
+      "es": "Voy a comprar algo",
+      "pu": "niakani ampe ma pyáni",
+      "seg": "ni-a-ka-ni ampe ma pyáni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Quiero comprar eso",
+      "pu": "wékaxïnkani inteni pyáni",
+      "seg": "wé-ka-xïn-ka-ni inte-ni pyáni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Quiero un pan",
+      "pu": "wékaxïnkani ma kurhinda",
+      "seg": "wé-ka-xïn-ka-ni ma kurhinda"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me he llevado el grande",
+      "pu": "páxkani k’érini",
+      "seg": "pá-x-ka-ni k’éri-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Dales un kilo de capulines",
+      "pu": "íntskuarinima kilu xénkwa ",
+      "seg": "ínts-ku-a-rini-ma kilu xénkwa "
+    }
+  },
+  {
+    "translation": {
+      "es": "No me has vendido limones",
+      "pu": "t’u no íntspikurhixki limonixï",
+      "seg": "t’u no ínts-pi-kurhi-x-ki limonixï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Real cosa del rey",
+      "pu": "irecha eweri japinchakwa",
+      "seg": "irecha eweri japinchakwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Nadar con otro",
+      "pu": "ma jinkuni xarhiani",
+      "seg": "ma jinkuni xarhia-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Colar algo con lienzo",
+      "pu": "yuskani tasta jimpo",
+      "seg": "yuskani tasta jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "las hojas de ese árbol",
+      "pu": "chkúriicha inte anatapuiri",
+      "seg": "chkúri-icha inte anatapu-iri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Estoy hablando con tu madre",
+      "pu": "ji wantakwarexaka chiiti naanti jinkuni",
+      "seg": "ji wanta-kware-xa-ka chiiti naanti jinkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "La canoa en la cual vine aquí está",
+      "pu": "icharuta énki ji jimpo juka xo jarhaxti",
+      "seg": "icharuta énki ji jimpo ju-ka xo ja-rha-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Iré contigo mañana",
+      "pu": "t’unkoni niaka pawani",
+      "seg": "t’u-nkoni ni-a-ka pawani"
+    }
+  },
+  {
+    "translation": {
+      "es": "Me han pegado a causa de Pablo",
+      "pu": "ji atanaxka Pablumpo",
+      "seg": "ji ata-na-x-ka Pablu-mpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pequeña flor",
+      "pu": "Tsïtsïki sapichu",
+      "seg": "Tsïtsïki sapichu"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Cómo eres bella!",
+      "pu": "¡Xánchkari sési jáxika",
+      "seg": "¡Xánchkari sési jáxika"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cómo te llamas?",
+      "pu": "Nári arhikwarhiski",
+      "seg": "Nári arhikwarhiski"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Cómo haré para cortarla?",
+      "pu": "Nanina úpirini para p’ikukwarhini",
+      "seg": "Nanina úpirini para p’ikukwarhini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pero no importa",
+      "pu": "Notaru modu jarhasti",
+      "seg": "Notaru modu jarhasti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Señor Agustín",
+      "pu": "Tata Agustini",
+      "seg": "Tata Agustini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Dichosos porque llegaron al nuevo año",
+      "pu": "Korhent’erai énkats’ï antaparhika jimpanki wéxurhini",
+      "seg": "Korhent’erai énkats’ï antaparhika jimpanki wéxurhini"
+    }
+  },
+  {
+    "translation": {
+      "es": "démosle gracias al creador del universo",
+      "pu": "jú je Tata Kuerap’irini Diosi mayamuka ánchint’ani",
+      "seg": "jú je Tata Kuerap’irini Diosi mayamuka ánchint’ani"
+    }
+  },
+  {
+    "translation": {
+      "es": "por la vida y los bienes recibidos",
+      "pu": "tsípikwa kóntperata ka sési irekwani jimpo",
+      "seg": "tsípikwa kóntperata ka sési irekwani jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "gocen la maravilla de toda la creación",
+      "pu": "exe je yámintu kweraakatani xáni énka kwáni jaka",
+      "seg": "exe je yámintu kweraakatani xáni énka kwáni jaka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Escúchen el dulce canto de la montaña",
+      "pu": "Kurhaa je jwáteri pirekwani ixu jamperi kurhakurhisïnti",
+      "seg": "Kurhaa je jwáteri pirekwani ixu jamperi kurhakurhisïnti"
+    }
+  },
+  {
+    "translation": {
+      "es": "que oportuno el lago azul le contesta",
+      "pu": "kurhasïnkits’ï japunta kasïpitku mókukunt’asïnti",
+      "seg": "kurhasïnkits’ï japunta kasïpitku mókukunt’asïnti"
+    }
+  },
+  {
+    "translation": {
+      "es": "descifren el lenguaje del viento que dice",
+      "pu": "tarhyata sapichuni kurhankuku je arhisïntits’ïni",
+      "seg": "tarhyata sapichuni kurhankuku je arhisïntits’ïni"
+    }
+  },
+  {
+    "translation": {
+      "es": "que la pase bien el año que comienza",
+      "pu": "esïkats’ï sési nitamaku arhiaka íni wéxurhini jimpo",
+      "seg": "esïkats’ï sési nitamaku arhiaka íni wéxurhini jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Observe la límpida luz de las estrellas",
+      "pu": "Eranchiai jóskuchani námakaksï t'ínskwa jaka",
+      "seg": "Eranchiai jóskuchani námakaksï t'ínskwa jaka"
+    }
+  },
+  {
+    "translation": {
+      "es": "en el cenit se pasea Tata Agustín García",
+      "pu": "terunchikwa isï wanaritsïxati Tata Agustini García",
+      "seg": "terunchikwa isï wanaritsïxati Tata Agustini García"
+    }
+  },
+  {
+    "translation": {
+      "es": "que con delicadeza acaricia a la luna",
+      "pu": "ka xékatku jimak’u p'arhinarhikusïnti nana Kutsini",
+      "seg": "ka xékatku jimak’u p'arhinarhikusïnti nana Kutsini"
+    }
+  },
+  {
+    "translation": {
+      "es": "y a las Pléyades una pirekwa les canta",
+      "pu": "wáchi jóskwaichani sési jasï ma pirekwa arhikwasïnti",
+      "seg": "wáchi jóskwaichani sési jasï ma pirekwa arhikwasïnti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Hacia el sur camina donde se encuentra Orión",
+      "pu": "Kétsimani ísï nirasïnti énka jararu jósku jaka",
+      "seg": "Kétsimani ísï nirasïnti énka jararu jósku jaka"
+    }
+  },
+  {
+    "translation": {
+      "es": "ve el arado ¿pensará sembrar en el cielo?",
+      "pu": "wanont’aritasïnti pékaxanu awantarhu wékak’a tarhentani",
+      "seg": "wanont’aritasïnti pékaxanu awantarhu wékak’a tarhentani"
+    }
+  },
+  {
+    "translation": {
+      "es": "Obsérvenlo se encuentra en el centro del cielo",
+      "pu": "exe je awantarhu terunchikwa ananarhikusti",
+      "seg": "exe je awantarhu terunchikwa ananarhikusti"
+    }
+  },
+  {
+    "translation": {
+      "es": "y desde allá nos habla con estas palabras",
+      "pu": "ka jini wératini isïts’ïni wantap’axati",
+      "seg": "ka jini wératini isïts’ïni wantap’axati"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Pueblo Purépecha nunca olvides tu lengua!",
+      "pu": "¡P'orhepecha asï mirikurhi je juchari wantakwani",
+      "seg": "¡P'orhepecha asï mirikurhi je juchari wantakwani"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Nunca se olviden de nuestras buenas tradiciones!",
+      "pu": "¡asï mirikurhi je juchari amparati p'intekwaichani ",
+      "seg": "¡asï mirikurhi je juchari amparati p'intekwaichani "
+    }
+  },
+  {
+    "translation": {
+      "es": "¡No se olviden de nuestro Dios Curicaveri!",
+      "pu": "¡asï mirikurhi je juchari Kuerap’irini Kurikaverini",
+      "seg": "¡asï mirikurhi je juchari Kuerap’irini Kurikaverini"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡No se olviden del respeto y de la ayuda!",
+      "pu": "¡asï mirikurhi je kaxumpikwa ka jarhoap’erakwani",
+      "seg": "¡asï mirikurhi je kaxumpikwa ka jarhoap’erakwani"
+    }
+  },
+  {
+    "translation": {
+      "es": "¡Busquen nuestra justicia!",
+      "pu": "¡jirhinantsï je juchari ampakiti juramukwani",
+      "seg": "¡jirhinantsï je juchari ampakiti juramukwani"
+    }
+  },
+  {
+    "translation": {
+      "es": "Cuiden y respeten a nuestros ancianos",
+      "pu": "Janankarhi je juchari tata k'ératiichani",
+      "seg": "Janankarhi je juchari tata k'ératiichani"
+    }
+  },
+  {
+    "translation": {
+      "es": "respeten a los ríos a los lagos y a las montañas",
+      "pu": "janankarhi je itsïchani japuntaichani ka jwátani",
+      "seg": "janankarhi je itsïchani japuntaichani ka jwátani"
+    }
+  },
+  {
+    "translation": {
+      "es": "porque en ellos se encuentran la vida y nuestra fuerza",
+      "pu": "jimpoka jima jaraska tsípikwa ka juchari winapikwa",
+      "seg": "jimpoka jima jaraska tsípikwa ka juchari winapikwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Tata Agustín se integra con las estrellas",
+      "pu": "Tata Agustini kúnkurhint’asïnti jóskwaichani jinkoni",
+      "seg": "Tata Agustini kúnkurhint’asïnti jóskwaichani jinkoni"
+    }
+  },
+  {
+    "translation": {
+      "es": "en el cielo todas las Pléyades la luna y Orión",
+      "pu": "awantarhu wáni jóskwaicha nana kutsi ka jararu jósku",
+      "seg": "awantarhu wáni jóskwaicha nana kutsi ka jararu jósku"
+    }
+  },
+  {
+    "translation": {
+      "es": "de nuevo regresan a su hogar",
+      "pu": "méntaruksï niánt’asti ya imecheri k'umanchikwa jimpo",
+      "seg": "méntaruksï niánt’asti ya imecheri k'umanchikwa jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "y así comienza el año nuevo purépecha",
+      "pu": "ka ísï wénasïnti jimpanki wéxurhini p'orhepecha",
+      "seg": "ka ísï wénasïnti jimpanki wéxurhini p'orhepecha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Conejito blanco",
+      "pu": "Awani sapichu urapiti",
+      "seg": "Awani sapichu urapiti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Flor de algodón",
+      "pu": "Xurhata tsïtsïki",
+      "seg": "Xurhata tsïtsïki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿A dónde vas así?",
+      "pu": "Nanireisï niraxaki ",
+      "seg": "Nanire-isï niraxaki "
+    }
+  },
+  {
+    "translation": {
+      "es": "Voy a la sierra para buscar la comida",
+      "pu": "Nipa jwatarhu t’irekwa p’int’ani",
+      "seg": "Nipa jwatarhu t’irekwa p’int’ani"
+    }
+  },
+  {
+    "translation": {
+      "es": "en mi gran casa",
+      "pu": "juchiti k’umanchikwarhu k’éri",
+      "seg": "juchiti k’umanchikwarhu k’éri"
+    }
+  },
+  {
+    "translation": {
+      "es": "Las ánimas",
+      "pu": "Ánimaicha",
+      "seg": "Ánima-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Érase una vez un hombre que no creía",
+      "pu": "Jarhaxptina ma achati imanki no jakak’uka",
+      "seg": "Ja-rha-x-p-ti-na ma achati ima-nki no jaka-k’u-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "que las ánimas regresaban",
+      "pu": "éxki ánimaicha jonkwaxïnkakxï",
+      "seg": "éxki ánima-icha jo-nkwa-xïn-ka-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y aquel hombre tenía dinero",
+      "pu": "Ka ima achati tumina jatsini",
+      "seg": "Ka ima achati tumina jatsi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "él tenía maíz y trigo",
+      "pu": "ima jatsini tsiri ka trigu",
+      "seg": "ima jatsi-ni tsiri ka trigu"
+    }
+  },
+  {
+    "translation": {
+      "es": "él iba a trabajar en el campo",
+      "pu": "ima niraxapti ánchikurhini kampurhu",
+      "seg": "ima ni-ra-xa-p-ti ánchi-kurhi-ni kampu-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y aquellas ánimas regresaban",
+      "pu": "Ka tsïma ánimaicha nyant’anina",
+      "seg": "Ka tsïma ánima-icha nya-nt’a-ni-na"
+    }
+  },
+  {
+    "translation": {
+      "es": "y estas ánimas iban hablando mucho",
+      "pu": "ka tsïma ánimaicha wantapant’ani",
+      "seg": "ka tsïma ánima-icha wanta-pa-nt’a-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "ellas iban divirtiéndose mucho ellas iban riéndose mucho ellas iban cantando mucho",
+      "pu": "tsipipant’ani terekurhipant’anikxï piripant’anikxï",
+      "seg": "tsipi-pa-nt’a-ni tere-kurhi-pa-nt’a-ni-kxï piri-pa-nt’a-ni-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y una mujer iba llorando mucho",
+      "pu": "Ka ma warhiti wépant’ani",
+      "seg": "Ka ma warhiti wé-pa-nt’a-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "El hombre piensa solamente en trabajar",
+      "pu": "Achati púro pensarixïnti para ánchikurhini",
+      "seg": "Achati púro pensari-xïn-ti para ánchi-kurhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "él estaba arando la milpa",
+      "pu": "tarhexapti tarheta",
+      "seg": "tarhe-xa-p-ti tarheta"
+    }
+  },
+  {
+    "translation": {
+      "es": "él no los estaba oyendo y no veía a nadie",
+      "pu": "no kurhaaxapti ka nonemani ixeni",
+      "seg": "no kurha-a-xa-p-ti ka nonema-ni ixe-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "No veía de dónde venían estas palabras",
+      "pu": "No ixeni náni jurhaxkikxï tsï wantakwaicha",
+      "seg": "No ixe-ni náni ju-rha-x-ki-kxï tsï wantakwa-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "él se aproximó a la cerca",
+      "pu": "ima antaparhakuni wach’otakwarhu",
+      "seg": "ima anta-parha-ku-ni wach’otakwa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "oyó a una mujer que iba llorando mucho",
+      "pu": "kurhaxti ma warhitini íxki wépant’apka",
+      "seg": "kurha-x-ti ma warhiti-ni íxki wé-pa-nt’a-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Por qué llora aquella mujer?",
+      "pu": "Antixïwé rakiima warhiti ",
+      "seg": "Anti-xï-wé ra-ki-ima warhiti "
+    }
+  },
+  {
+    "translation": {
+      "es": "Solamente aquélla estaba triste (iba con lágrimas)",
+      "pu": "Nómaxï imak’u niraxapti wékwankuni",
+      "seg": "Nóma-xï ima-k’u ni-ra-xa-p-ti wékwa-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿Quién es aquella mujer?",
+      "pu": "Néixkiima warhiti ",
+      "seg": "Né-i-x-ki-ima warhiti "
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquella mujer dijo:",
+      "pu": "Ima warhiti arhini",
+      "seg": "Ima warhiti arhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Comadre mía tú estás trayendo",
+      "pu": "Juchi komadre t’uri jwánkwaxaka",
+      "seg": "Juchi komadre t’uri jwá-nkwa-xa-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "todo para un año",
+      "pu": "yámintu ampe para ma wéxurhini",
+      "seg": "yámintu ampe para ma wéxurhini"
+    }
+  },
+  {
+    "translation": {
+      "es": "usted están trayendo pan y velas",
+      "pu": "jwáaxakats’ï kurhintani ka kantelaichani",
+      "seg": "jwá-a-xa-ka-ts’ï kurhinta-ni ka kantela-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "y yo no traigo nada”",
+      "pu": "ka ji nóompe jwáni",
+      "seg": "ka ji nóompe jwá-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Su madre continuó llorando y dijo:",
+      "pu": "Amampa segirini wérani ka arhini",
+      "seg": "Ama-mpa segiri-ni wé-ra-ni ka arhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "“Todo el año me quemaré un dedo",
+      "pu": "Ma wéxurhini tixak’uakani jak’i",
+      "seg": "Ma wéxurhini tixa-k’u-a-ka-ni jak’i"
+    }
+  },
+  {
+    "translation": {
+      "es": "porque no hay ninguna vela",
+      "pu": "porki nóompe ma kantela",
+      "seg": "porki nóompe ma kantela"
+    }
+  },
+  {
+    "translation": {
+      "es": "porque no hay ninguna luz para alumbrarme la cara”",
+      "pu": "jimpoka nóompe tsanta para ji eranarhini",
+      "seg": "jimpoka nóompe tsanta para ji era-narhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Las comadres y los compadres dijeron:",
+      "pu": "Komadreicha ka kompradreicha arhixtikxï",
+      "seg": "Komadre-icha ka kompradre-icha arhi-x-ti-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "“Nosotros te ofreceremos una vela”",
+      "pu": "Juchakxïni íntsïmpiakakxï ma kantela",
+      "seg": "Jucha-kxïni íntsï-mpi-a-ka-kxï ma kantela"
+    }
+  },
+  {
+    "translation": {
+      "es": "Los otros estaban llevando las velas",
+      "pu": "Máteruicha páaxapti kantelaichani",
+      "seg": "Máteru-icha pá-a-xa-p-ti kantela-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "y ellos llevaban comida para comer durante un año",
+      "pu": "ka pákurhinikxï t’irikwa para ma wéxurhini arhani",
+      "seg": "ka pá-kurhi-ni-kxï t’irikwa para ma wéxurhini arha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "El hombre dejó los bueyes",
+      "pu": "Achati jurhak’uxti wákaxïichani",
+      "seg": "Achati ju-rha-k’u-x-ti wákaxï-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "y corrió hacia su casa",
+      "pu": "ka wiritsïp’eni interi kt’arhu",
+      "seg": "ka wiri-tsï-p’e-ni interi kt’a-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "llegó y dijo a su esposa:",
+      "pu": "ima nyarani ka arhini interi témpani",
+      "seg": "ima nya-ra-ni ka arhi-ni interi témpa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "“Allá en la calle yo estaba escuchando a las ánimas",
+      "pu": "Jini xanaru kurhaxapkani ánimaichani",
+      "seg": "Jini xanaru kurha-xa-p-ka-ni ánima-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "todas iban cantando mucho",
+      "pu": "yámintuicha piripant’anikxï",
+      "seg": "yámintu-icha piri-pa-nt’a-ni-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "e iban riendo mucho",
+      "pu": "ka terekurhipant’anikxï",
+      "seg": "ka tere-kurhi-pa-nt’a-ni-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "y solamente una iba llorando es mi madre",
+      "pu": "ka mák’u wépant’ani ka juchari nántiixti",
+      "seg": "ka má-k’u wé-pa-nt’a-ni ka juchari nán-ti-i-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y aquélla estaba diciendo que yo tenía dinero",
+      "pu": "Ka ima wantaxapti íxki tumina jatsikani",
+      "seg": "Ka ima wanta-xa-p-ti íxki tumina jatsi-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "y que yo no le traía nada",
+      "pu": "ka nóompe jwákuxkani",
+      "seg": "ka nóompe jwá-ku-x-ka-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "y ella decía que se quemaría un dedo",
+      "pu": "ka wantani íxki tixak’upirinka ma ják’i",
+      "seg": "ka wanta-ni íxki tixa-k’u-pirin-ka ma ják’i"
+    }
+  },
+  {
+    "translation": {
+      "es": "para que ella se viera la cara durante un año”",
+      "pu": "para ima ma wéxurhini eranarhini",
+      "seg": "para ima ma wéxurhini era-narhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y este hombre llegaba y dijo:",
+      "pu": "Ka i achati janoxati ka arhini",
+      "seg": "Ka i achati jano-xa-ti ka arhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "“Rápido haz moler este trigo",
+      "pu": "Kokani urhurai trigu ni",
+      "seg": "Kokani urhu-ra-i trigu ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "ve rápido a cocer pan",
+      "pu": "nikokani únt’ani kurhinta ",
+      "seg": "ni-kokani ú-nt’a-ni kurhinta "
+    }
+  },
+  {
+    "translation": {
+      "es": "y todo lo que quieres”",
+      "pu": "ka yámintu ampe nénki t’úri wékaka",
+      "seg": "ka yámintu ampe nénki t’úri wé-ka-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y su esposa dijo que",
+      "pu": "Ka imeri témpa arhini íxki",
+      "seg": "Ka imeri témpa arhi-ni íxki"
+    }
+  },
+  {
+    "translation": {
+      "es": "¿por qué él no esperaba cada vez a su madre?",
+      "pu": "antino ero nt’apkiama mpani ",
+      "seg": "anti-no ero nt’a-p-ki-ama mpa-ni "
+    }
+  },
+  {
+    "translation": {
+      "es": "Cada año ella le decía",
+      "pu": "Mántani wéxurhini arhixïnanti",
+      "seg": "Mántani wéxurhini arhi-xïn-an-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "y aquél respondió que su madre no comía",
+      "pu": "ka ima wantani íxki amampa no t’iripka",
+      "seg": "ka ima wanta-ni íxki ama-mpa no t’iri-p-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "La esposa fue al molino para cocer el nixtamal",
+      "pu": "Niraxti témpa urhurakwarhu pára jápu únt’ani",
+      "seg": "Nira-x-ti témpa urhurakwa-rhu pára jápu ú-nt’a-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "su esposo hizo el atole",
+      "pu": "imeri wámpa úxti kamata",
+      "seg": "imeri wámpa ú-x-ti kamata"
+    }
+  },
+  {
+    "translation": {
+      "es": "él compró todo lo que necesitaba",
+      "pu": "pyáni yámintu ampe nénki wétarhiaka ima",
+      "seg": "pyá-ni yámintu ampe nénki wé-ta-rhi-a-ka ima"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pero las ánimas ya se habían ido",
+      "pu": "Péru nint’axtikxï ya ánimaicha",
+      "seg": "Péru ni-nt’a-x-ti-kxï ya ánima-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "y él puso todo sobre la mesa",
+      "pu": "ka ima jatsini yámintu ampe mesarhu",
+      "seg": "ka ima jatsi-ni yámintu ampe mesa-rhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "y ellos comieron todo",
+      "pu": "ka arhanikxï yámintu ampe",
+      "seg": "ka a-rha-ni-kxï yámintu ampe"
+    }
+  },
+  {
+    "translation": {
+      "es": "Pero el año que viene yo seré el primero",
+      "pu": "Péru wéxurhini ínki jónkwaaka ji wéteneaka",
+      "seg": "Péru wéxurhini ínki jó-nkwa-a-ka ji wé-te-ne-a-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "y nuestra madre no llorará más",
+      "pu": "ka juchari nánti nóteru wérani",
+      "seg": "ka juchari nán-ti nóteru wé-ra-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Yo le llevaré todo la comida y las velas",
+      "pu": "Ji pákuni yámintu ampe t’irikwani ka kantelaichani",
+      "seg": "Ji pá-ku-ni yámintu ampe t’irikwa-ni ka kantela-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Las ánimas no se llevan nada ni las velas",
+      "pu": "Ánimaicha nóompe pánt’axïntikxï kantelaichani",
+      "seg": "Ánima-icha nóompe pá-nt’a-xïn-ti-kxï kantela-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "ni el pan lo que se llevan es lo que huele",
+      "pu": "kurhintani nénkikxï pánt’aka nénki xïpirhuka",
+      "seg": "kurhinta-ni nénki-kxï pá-nt’a-ka nénki xïpi-rhu-ka"
+    }
+  },
+  {
+    "translation": {
+      "es": "es el olor que llevan las ánimas",
+      "pu": "xïpirhukwa énki pánt’ani ánimaicha",
+      "seg": "xïpirhukwa énki pá-nt’a-ni ánima-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Puso un plato con flores alrededor",
+      "pu": "Jatsikuxti ma platu wirhiperani tsïtsïkiichani",
+      "seg": "Jatsi-ku-x-ti ma platu wirhiperani tsïtsïki-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "y él esperó con su esposa",
+      "pu": "ka erokani imeri témpankuni",
+      "seg": "ka ero-ka-ni imeri témpa-nkuni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Su esposa hizo ricos panes",
+      "pu": "Imeri témpa úni kurhintaichani amparhatiichani",
+      "seg": "Imeri témpa ú-ni kurhinta-icha-ni amparhati-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "y compró queso",
+      "pu": "ka pyáni késu",
+      "seg": "ka pyá-ni késu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y ellos oyeron ruido",
+      "pu": "Ka kurhanikxï ruidu",
+      "seg": "Ka kurha-ni-kxï ruidu"
+    }
+  },
+  {
+    "translation": {
+      "es": "iban hablando mucho",
+      "pu": "wantapant’anikxï",
+      "seg": "wanta-pa-nt’a-ni-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "iban riendo mucho",
+      "pu": "terekurhipant’anikxï",
+      "seg": "tere-kurhi-pa-nt’a-ni-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "e iban cantando mucho",
+      "pu": "ka piripant’anikxï",
+      "seg": "ka piri-pa-nt’a-ni-kxï"
+    }
+  },
+  {
+    "translation": {
+      "es": "La esposa y el esposo vieron a su madre",
+      "pu": "Témpa ka wámpa eranikxï amampani",
+      "seg": "Témpa ka wámpa era-ni-kxï ama-mpa-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "aquélla estaba cantando",
+      "pu": "ima pirixapti ya",
+      "seg": "ima piri-xa-p-ti ya"
+    }
+  },
+  {
+    "translation": {
+      "es": "aquélla llevaba todo",
+      "pu": "ima pánt’ani yámintu ampe",
+      "seg": "ima pá-nt’a-ni yámintu ampe"
+    }
+  },
+  {
+    "translation": {
+      "es": "llevaba comida para alimentarse durante un año",
+      "pu": "pánt’ani t’irikwani pára ma wéxurhini arhani",
+      "seg": "pá-nt’a-ni t’irikwa-ni pára ma wéxurhini a-rha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Su hijo estaba muy contento",
+      "pu": "Imeri wáp’a sési pikwarhiraxti",
+      "seg": "Imeri wáp’a sési pikwa-rhi-ra-x-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "Aquél dijo:",
+      "pu": "ima arhini",
+      "seg": "ima arhi-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "“Cada año esperaré a las ánimas",
+      "pu": "Mantani wéxurhini eront’aakani ánimaichani",
+      "seg": "Mantani wéxurhini ero-nt’a-a-ka-ni ánima-icha-ni"
+    }
+  },
+  {
+    "translation": {
+      "es": "cada año yo pensaré en mi madre",
+      "pu": "mantani wéxurhini myáni juchari nánti",
+      "seg": "mantani wéxurhini myá-ni juchari nán-ti"
+    }
+  },
+  {
+    "translation": {
+      "es": "le llevaré todo comida flores",
+      "pu": "pákuni yámintu ampe t’irikwa tsïtsïkiicha",
+      "seg": "pá-ku-ni yámintu ampe t’irikwa tsïtsïki-icha"
+    }
+  },
+  {
+    "translation": {
+      "es": "velas todo”",
+      "pu": "kantelaicha yámintu ampe",
+      "seg": "kantela-icha yámintu ampe"
+    }
+  },
+  {
+    "translation": {
+      "es": "Mujer purépecha",
+      "pu": "Wárhi purépecha",
+      "seg": "Wárhi purépecha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy una mujer",
+      "pu": "Wárhiiskani",
+      "seg": "Wárhiiskani"
+    }
+  },
+  {
+    "translation": {
+      "es": "que avanza y llora",
+      "pu": "kómu nitamakorheti ka werasïnka",
+      "seg": "kómu nitamakorheti ka werasïnka"
+    }
+  },
+  {
+    "translation": {
+      "es": "que sufre de muchas formas",
+      "pu": "mamaru wantaneatechani jimpo",
+      "seg": "mamaru wantaneatechani jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy la rebelión contra el olvido",
+      "pu": "Ji jinteskani kwapekorhensti",
+      "seg": "Ji jinteskani kwapekorhensti"
+    }
+  },
+  {
+    "translation": {
+      "es": "toda la pobreza de la condición de las mujeres",
+      "pu": "yamentu ampe kómu jánkwa warhitichairi",
+      "seg": "yamentu ampe kómu jánkwa warhitichairi"
+    }
+  },
+  {
+    "translation": {
+      "es": "la presencia de los excluidos",
+      "pu": "ka sánteru myásïnka tsîmanki k’entitanaka",
+      "seg": "ka sánteru myásïnka tsîmanki k’entitanaka"
+    }
+  },
+  {
+    "translation": {
+      "es": "soy la memoria colectiva",
+      "pu": "ka menkunkusïni myáxaka yamentuechani",
+      "seg": "ka menkunkusïni myáxaka yamentuechani"
+    }
+  },
+  {
+    "translation": {
+      "es": "“la otra forma de llamar el mañana”",
+      "pu": "wakani menteruni ja’kani pawanini",
+      "seg": "wakani menteruni ja’kani pawanini"
+    }
+  },
+  {
+    "translation": {
+      "es": "Soy mujer p'urhépecha",
+      "pu": "Warhiiska p'urhepecha",
+      "seg": "Warhiiska p'urhepecha"
+    }
+  },
+  {
+    "translation": {
+      "es": "debo pelear y ganar la lucha",
+      "pu": "warhipeaka ka antakorheaka",
+      "seg": "warhipeaka ka antakorheaka"
+    }
+  },
+  {
+    "translation": {
+      "es": "para mis hijos",
+      "pu": "jucheeti wacheechani jimpo",
+      "seg": "jucheeti wacheechani jimpo"
+    }
+  },
+  {
+    "translation": {
+      "es": "debo pelear para ellos",
+      "pu": "intechani jimposïni warhipeaka",
+      "seg": "intechani jimposïni warhipeaka"
+    }
+  },
+  {
+    "translation": {
+      "es": "y ellos deben saber de mí",
+      "pu": "ka ts'îmi'ts'ini isï míteati",
+      "seg": "ka ts'îmi'ts'ini isï míteati"
+    }
+  },
+  {
+    "translation": {
+      "es": "pero ¿quién soy?",
+      "pu": "ka anti néskiniji ",
+      "seg": "ka anti néskini-ji "
+    }
+  },
+  {
+    "translation": {
+      "es": "Atapakwa de queso",
+      "pu": "Késu atapakwa",
+      "seg": "Késu atapakwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Ingredientes",
+      "pu": "P’unts’umitarakwaecha",
+      "seg": "P’unts’umitarakwaecha"
+    }
+  },
+  {
+    "translation": {
+      "es": "50 gramos de semillas de calabaza o de chilacayote",
+      "pu": "Tsimani ekwatsï ka tempini grámu xéni purhuiri o t’ikatsïiri",
+      "seg": "Tsimani ekwatsï ka tempini grámu xéni purhuiri o t’ikatsïiri"
+    }
+  },
+  {
+    "translation": {
+      "es": "200 gramos de queso fresco o añejo",
+      "pu": "Tempini ekwatsï grámu késu kwakari o anieju",
+      "seg": "Tempini ekwatsï grámu késu kwakari o anieju"
+    }
+  },
+  {
+    "translation": {
+      "es": "3 chiles guajillos largos",
+      "pu": "Tanimu ichakwa k’awasï k’arhiri p’ameri",
+      "seg": "Tanimu ichakwa k’awasï k’arhiri p’ameri"
+    }
+  },
+  {
+    "translation": {
+      "es": "2 chiles guajillos anchos",
+      "pu": "Tsimani ichukwa k’awasï k’arhiri kót’i",
+      "seg": "Tsimani ichukwa k’awasï k’arhiri kót’i"
+    }
+  },
+  {
+    "translation": {
+      "es": "Media cebolla (de las redondas)",
+      "pu": "Teruk’ani irhakwa ts’urupsï sésku jásï",
+      "seg": "Teruk’ani irhakwa ts’urupsï sésku jásï"
+    }
+  },
+  {
+    "translation": {
+      "es": "3 chiles serranos",
+      "pu": "Tanimu ichakwa k’awasï ts’irapsï",
+      "seg": "Tanimu ichakwa k’awasï ts’irapsï"
+    }
+  },
+  {
+    "translation": {
+      "es": "3 tomates verdes (redondos)",
+      "pu": "Tanimu irhakwa tóma",
+      "seg": "Tanimu irhakwa tóma"
+    }
+  },
+  {
+    "translation": {
+      "es": "1 jitomate",
+      "pu": "Ma irhakwa jitomati",
+      "seg": "Ma irhakwa jitomati"
+    }
+  },
+  {
+    "translation": {
+      "es": "2 mazorcas seneri (de forma redonda) desgranadas",
+      "pu": "Tsimani ichakwa xanini tsíri seneri piukata",
+      "seg": "Tsimani ichakwa xanini tsíri seneri piukata"
+    }
+  },
+  {
+    "translation": {
+      "es": "2 ramitas de cilantro",
+      "pu": "Tsimani axantikwa sapirhati kulantru",
+      "seg": "Tsimani axantikwa sapirhati kulantru"
+    }
+  },
+  {
+    "translation": {
+      "es": "1 diente de ajo",
+      "pu": "Ma sïni arhut’akata ajusï",
+      "seg": "Ma sïni arhut’akata ajusï"
+    }
+  },
+  {
+    "translation": {
+      "es": "50 gramos de manteca de cerdo",
+      "pu": "Tsimani ekwatsï ka témpini manteka",
+      "seg": "Tsimani ekwatsï ka témpini manteka"
+    }
+  },
+  {
+    "translation": {
+      "es": "agregar sal en caso de ser necesario",
+      "pu": "Éska xáni wétarhiaka itukwa",
+      "seg": "Éska xáni wétarhiaka itukwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Cómo se prepara",
+      "pu": "Na énka unant’ak’a",
+      "seg": "Na énka unant’ak’a"
+    }
+  },
+  {
+    "translation": {
+      "es": "Se tuestan las semillas en el comal",
+      "pu": "Xéni wanikanasïnti eroksïrhu",
+      "seg": "Xéni wanikanasïnti eroksïrhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "Y se muelen con el maíz y los chiles remojados",
+      "pu": "Ka urhunasïnti tsíri ka k’awasï t’oremakata jinkoni",
+      "seg": "Ka urhunasïnti tsíri ka k’awasï t’oremakata jinkoni"
+    }
+  },
+  {
+    "translation": {
+      "es": "Luego se muelen los demás ingredientes",
+      "pu": "Jimak’u urhunasïnti mataru p’untsumitarakwaecha",
+      "seg": "Jimak’u urhunasïnti mataru p’untsumitarakwaecha"
+    }
+  },
+  {
+    "translation": {
+      "es": "Colar todo",
+      "pu": "Yamintu tsarhani",
+      "seg": "Yamintu tsarhani"
+    }
+  },
+  {
+    "translation": {
+      "es": "Guisar en una cazuela",
+      "pu": "Ka jurhixani kasuilarhu",
+      "seg": "Ka jurhixani kasuilarhu"
+    }
+  },
+  {
+    "translation": {
+      "es": "En caso necesario agregar más agua",
+      "pu": "Énka ampe wétarhiaka itsï jatsikunt’ani sántaru",
+      "seg": "Énka ampe wétarhiaka itsï jatsikunt’ani sántaru"
+    }
+  },
+  {
+    "translation": {
+      "es": "Cuando empieza a hervir se pone la sal",
+      "pu": "Énka wénaka puruani jatsikuni itukwa",
+      "seg": "Énka wénaka puruani jatsikuni itukwa"
+    }
+  },
+  {
+    "translation": {
+      "es": "Se sirve con rebanadas de queso",
+      "pu": "Jatsirakurhinasïnti késu kwakari unturhikata jinkoni",
+      "seg": "Jatsirakurhinasïnti késu kwakari unturhikata jinkoni"
+    }
+  },
+  {
+    "translation": {
+      "es": "6 porciones",
+      "pu": "Kwimu atarakwa",
+      "seg": "Kwimu atarakwa"
+    }
+  }
+]
